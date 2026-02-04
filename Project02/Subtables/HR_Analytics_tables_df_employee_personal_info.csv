@@ -1,0 +1,401 @@
+﻿员工 ID,年龄,年龄组,通勤距离,教育程度,教育领域,性别,婚姻状况,是否年满 18 岁,总工作年限,在本公司工作年限,当前职位任职年限,距上次晋升年限,与现任主管共事年限
+RM297,18,18-25,3,3,Life Sciences,Male,Single,Y,0,0,0,0,0
+RM302,18,18-25,10,3,Medical,Female,Single,Y,0,0,0,0,0
+RM458,18,18-25,5,3,Marketing,Male,Single,Y,0,0,0,0,0
+RM728,18,18-25,5,2,Life Sciences,Male,Single,Y,0,0,0,0,0
+RM829,18,18-25,8,1,Medical,Male,Single,Y,0,0,0,0,0
+RM973,18,18-25,1,3,Life Sciences,Female,Single,Y,0,0,0,0,0
+RM1154,18,18-25,3,2,Medical,Female,Single,Y,0,0,0,0,0
+RM1312,18,18-25,14,3,Medical,Female,Single,Y,0,0,0,0,0
+RM128,19,18-25,22,1,Marketing,Male,Single,Y,0,0,0,0,0
+RM150,19,18-25,3,1,Medical,Female,Single,Y,1,1,0,0,0
+RM172,19,18-25,1,1,Technical Degree,Female,Single,Y,1,0,0,0,0
+RM178,19,18-25,2,3,Life Sciences,Male,Single,Y,1,1,0,1,0
+RM423,19,18-25,2,2,Technical Degree,Male,Single,Y,1,1,0,0,0
+RM689,19,18-25,21,3,Other,Male,Single,Y,1,1,0,0,0
+RM854,19,18-25,9,2,Life Sciences,Male,Single,Y,1,1,1,0,0
+RM893,19,18-25,10,3,Medical,Female,Single,Y,1,1,1,0,0
+RM910,19,18-25,25,3,Life Sciences,Female,Single,Y,1,1,0,0,1
+RM103,20,18-25,6,3,Life Sciences,Female,Single,Y,1,1,0,1,0
+RM488,20,18-25,1,3,Life Sciences,Female,Single,Y,1,1,0,0,0
+RM514,20,18-25,10,1,Medical,Male,Single,Y,1,1,0,1,1
+RM663,20,18-25,2,3,Medical,Female,Single,Y,2,2,2,0,2
+RM690,20,18-25,4,3,Technical Degree,Male,Single,Y,1,1,0,0,0
+RM732,20,18-25,11,3,Medical,Female,Single,Y,1,1,0,0,0
+RM777,20,18-25,9,3,Marketing,Female,Single,Y,2,2,2,0,2
+RM857,20,18-25,3,3,Life Sciences,Male,Single,Y,2,2,2,1,2
+RM877,20,18-25,21,3,Marketing,Male,Single,Y,2,2,1,2,2
+RM1179,20,18-25,2,3,Medical,Female,Single,Y,2,2,2,2,2
+RM1198,20,18-25,9,1,Life Sciences,Male,Single,Y,2,2,2,0,2
+RM024,21,18-25,15,2,Life Sciences,Male,Single,Y,0,0,0,0,
+RM275,21,18-25,3,2,Medical,Male,Single,Y,3,3,2,1,0
+RM358,21,18-25,1,1,Technical Degree,Female,Single,Y,3,3,2,1,2
+RM363,21,18-25,9,2,Medical,Male,Single,Y,3,3,2,2,
+RM371,21,18-25,12,3,Life Sciences,Female,Single,Y,1,1,0,0,0
+RM497,21,18-25,22,1,Technical Degree,Male,Single,Y,3,3,2,1,2
+RM664,21,18-25,18,1,Other,Female,Single,Y,1,1,0,0,0
+RM778,21,18-25,10,3,Life Sciences,Female,Single,Y,1,1,0,1,0
+RM816,21,18-25,1,1,Technical Degree,Female,Single,Y,2,2,2,2,2
+RM916,21,18-25,10,2,Life Sciences,Female,Single,Y,2,2,2,2,2
+RM1153,21,18-25,5,1,Medical,Male,Single,Y,3,2,2,2,2
+RM1272,21,18-25,7,1,Marketing,Male,Single,Y,1,1,0,1,0
+RM1437,21,18-25,5,1,Medical,Male,Single,Y,2,2,2,1,2
+RM018,22,18-25,16,2,Medical,Male,Divorced,Y,1,1,0,0,0
+RM110,22,18-25,15,3,Medical,Female,Single,Y,1,0,0,0,0
+RM129,22,18-25,2,1,Technical Degree,Male,Married,Y,3,2,1,2,1
+RM161,22,18-25,19,1,Medical,Male,Married,Y,2,2,2,2,2
+RM207,22,18-25,5,3,Life Sciences,Male,Divorced,Y,4,4,2,2,
+RM384,22,18-25,11,3,Medical,Female,Married,Y,2,2,1,1,2
+RM444,22,18-25,4,1,Technical Degree,Male,Single,Y,4,2,2,1,2
+RM499,22,18-25,6,1,Medical,Male,Married,Y,3,2,2,2,2
+RM631,22,18-25,1,2,Life Sciences,Male,Married,Y,4,2,2,2,2
+RM667,22,18-25,3,1,Life Sciences,Female,Married,Y,4,3,2,0,2
+RM735,22,18-25,8,1,Life Sciences,Male,Married,Y,4,4,3,1,1
+RM861,22,18-25,3,4,Life Sciences,Male,Married,Y,1,0,0,0,0
+RM1138,22,18-25,26,2,Other,Female,Married,Y,4,4,2,1,3
+RM1274,22,18-25,8,1,Medical,Female,Married,Y,1,1,0,0,0
+RM1340,22,18-25,7,1,Life Sciences,Male,Single,Y,1,1,0,0,0
+RM1424,22,18-25,1,2,Life Sciences,Male,Single,Y,4,3,2,1,2
+RM087,23,18-25,2,1,Technical Degree,Male,Divorced,Y,3,0,0,0,0
+RM346,23,18-25,26,1,Life Sciences,Male,Divorced,Y,4,4,2,0,2
+RM517,23,18-25,4,3,Medical,Male,Married,Y,5,3,2,0,2
+RM551,23,18-25,9,1,Medical,Male,Married,Y,5,4,3,0,2
+RM566,23,18-25,10,1,Medical,Male,Single,Y,2,2,2,0,2
+RM586,23,18-25,6,3,Life Sciences,Male,Married,Y,1,0,0,0,0
+RM911,23,18-25,1,2,Life Sciences,Male,Married,Y,1,1,0,0,1
+RM1083,23,18-25,20,1,Life Sciences,Male,Single,Y,5,4,3,1,2
+RM1128,23,18-25,10,3,Technical Degree,Male,Married,Y,4,2,2,2,2
+RM1202,23,18-25,8,1,Medical,Male,Single,Y,5,5,4,1,2
+RM1214,23,18-25,7,3,Life Sciences,Male,Divorced,Y,3,3,2,0,2
+RM1239,23,18-25,4,1,Medical,Female,Single,Y,3,3,2,1,2
+RM1409,23,18-25,12,2,Other,Male,Single,Y,5,5,2,1,4
+RM1439,23,18-25,9,3,Marketing,Male,Married,Y,1,1,0,1,0
+RM021,24,18-25,11,2,Other,Female,Divorced,Y,5,4,2,1,3
+RM035,24,18-25,1,3,Medical,Male,Married,Y,6,2,0,2,0
+RM097,24,18-25,3,2,Other,Female,Married,Y,4,3,2,0,2
+RM114,24,18-25,18,1,Life Sciences,Male,Married,Y,6,5,3,1,2
+RM381,24,18-25,10,4,Marketing,Female,Divorced,Y,5,5,2,0,3
+RM415,24,18-25,1,1,Technical Degree,Female,Single,Y,6,5,3,1,4
+RM471,24,18-25,24,3,Medical,Male,Married,Y,3,2,2,2,1
+RM475,24,18-25,23,3,Medical,Male,Married,Y,6,6,5,1,4
+RM477,24,18-25,17,2,Other,Male,Married,Y,1,1,0,0,0
+RM480,24,18-25,7,3,Life Sciences,Female,Married,Y,6,6,3,1,2
+RM526,24,18-25,3,2,Life Sciences,Female,Single,Y,4,2,2,2,0
+RM587,24,18-25,9,3,Life Sciences,Male,Divorced,Y,1,1,0,0,0
+RM641,24,18-25,4,1,Life Sciences,Male,Married,Y,6,5,2,3,4
+RM725,24,18-25,17,1,Medical,Female,Divorced,Y,5,4,2,3,2
+RM842,24,18-25,24,3,Medical,Male,Single,Y,6,4,3,1,2
+RM872,24,18-25,17,2,Life Sciences,Female,Married,Y,1,1,0,0,0
+RM1026,24,18-25,4,1,Medical,Female,Married,Y,5,5,4,0,3
+RM1061,24,18-25,9,3,Medical,Male,Single,Y,4,0,0,0,0
+RM1062,24,18-25,13,2,Life Sciences,Female,Married,Y,1,1,0,0,0
+RM1098,24,18-25,21,2,Technical Degree,Male,Divorced,Y,2,1,1,0,0
+RM1169,24,18-25,2,1,Technical Degree,Female,Single,Y,6,6,3,1,3
+RM1218,24,18-25,9,3,Medical,Male,Married,Y,5,5,3,0,4
+RM1223,24,18-25,22,1,Human Resources,Male,Married,Y,1,1,0,0,0
+RM1231,24,18-25,29,1,Medical,Male,Divorced,Y,6,6,2,1,2
+RM1246,24,18-25,10,3,Medical,Male,Married,Y,3,2,2,2,1
+RM1408,24,18-25,1,2,Life Sciences,Male,Single,Y,4,4,3,1,2
+RM108,25,18-25,5,3,Marketing,Male,Single,Y,6,6,4,0,3
+RM109,25,18-25,7,1,Medical,Male,Married,Y,2,2,2,2,1
+RM139,25,18-25,28,3,Life Sciences,Male,Married,Y,6,2,2,2,
+RM256,25,18-25,1,3,Life Sciences,Female,Married,Y,5,4,2,1,
+RM268,25,18-25,5,2,Life Sciences,Male,Divorced,Y,6,6,3,1,5
+RM398,25,18-25,4,2,Life Sciences,Female,Single,Y,5,5,4,1,3
+RM406,25,18-25,3,3,Medical,Male,Married,Y,6,2,2,0,
+RM479,25,18-25,13,1,Medical,Male,Married,Y,7,7,4,0,6
+RM518,25,18-25,8,3,Life Sciences,Male,Married,Y,4,3,2,1,2
+RM564,25,18-25,26,1,Medical,Female,Single,Y,6,6,5,1,4
+RM619,25,18-25,2,1,Medical,Male,Single,Y,6,4,3,0,1
+RM635,25,18-25,3,1,Other,Male,Married,Y,5,5,3,0,3
+RM639,25,18-25,4,1,Marketing,Male,Married,Y,5,5,2,0,3
+RM684,25,18-25,19,2,Marketing,Male,Married,Y,1,1,0,0,0
+RM797,25,18-25,4,1,Technical Degree,Male,Married,Y,7,7,7,5,6
+RM886,25,18-25,10,4,Life Sciences,Male,Single,Y,5,4,3,1,1
+RM912,25,18-25,24,1,Life Sciences,Male,Single,Y,1,1,0,1,0
+RM935,25,18-25,1,3,Medical,Female,Single,Y,2,2,2,2,1
+RM966,25,18-25,19,1,Medical,Male,Married,Y,7,3,2,1,2
+RM994,25,18-25,18,1,Life Sciences,Male,Married,Y,6,3,2,1,2
+RM1004,25,18-25,1,3,Technical Degree,Male,Married,Y,7,3,2,0,2
+RM1022,25,18-25,9,2,Life Sciences,Male,Married,Y,6,3,2,2,2
+RM1175,25,18-25,2,1,Life Sciences,Male,Divorced,Y,7,7,7,0,7
+RM1412,25,18-25,2,3,Human Resources,Female,Married,Y,6,2,0,1,2
+RM1414,25,18-25,2,1,Other,Male,Divorced,Y,7,2,2,0,2
+RM1434,25,18-25,8,2,Other,Female,Divorced,Y,6,5,3,0,4
+RM043,26,26-35,25,3,Life Sciences,Male,Single,Y,1,1,0,0,1
+RM055,26,26-35,23,3,Marketing,Female,Married,Y,5,2,2,0,0
+RM126,26,26-35,6,3,Other,Female,Married,Y,5,5,4,4,3
+RM135,26,26-35,25,1,Life Sciences,Female,Married,Y,8,8,7,5,7
+RM279,26,26-35,1,3,Life Sciences,Female,Divorced,Y,6,6,5,1,4
+RM285,26,26-35,11,2,Medical,Male,Married,Y,5,5,3,3,3
+RM289,26,26-35,16,4,Medical,Male,Divorced,Y,5,3,2,0,2
+RM294,26,26-35,4,4,Marketing,Male,Single,Y,8,8,7,7,4
+RM356,26,26-35,1,3,Life Sciences,Male,Married,Y,8,8,7,7,7
+RM383,26,26-35,3,1,Technical Degree,Male,Single,Y,7,6,4,0,4
+RM419,26,26-35,23,3,Life Sciences,Female,Divorced,Y,3,3,2,0,2
+RM454,26,26-35,17,4,Life Sciences,Female,Divorced,Y,8,7,7,1,0
+RM461,26,26-35,29,2,Medical,Male,Divorced,Y,8,0,0,0,0
+RM464,26,26-35,24,3,Technical Degree,Male,Single,Y,1,1,0,0,0
+RM476,26,26-35,28,2,Marketing,Male,Married,Y,6,5,3,1,4
+RM506,26,26-35,6,3,Life Sciences,Female,Married,Y,3,3,2,0,2
+RM572,26,26-35,1,2,Life Sciences,Female,Divorced,Y,5,2,2,2,0
+RM574,26,26-35,8,3,Technical Degree,Male,Single,Y,6,4,3,1,2
+RM615,26,26-35,5,2,Medical,Female,Married,Y,8,8,7,1,7
+RM686,26,26-35,1,3,Medical,Male,Single,Y,7,7,7,0,7
+RM734,26,26-35,2,2,Medical,Male,Married,Y,8,8,7,1,3
+RM749,26,26-35,29,2,Medical,Male,Single,Y,7,2,2,2,2
+RM763,26,26-35,2,3,Life Sciences,Male,Married,Y,6,3,2,1,2
+RM770,26,26-35,1,1,Medical,Female,Divorced,Y,5,5,3,1,3
+RM782,26,26-35,1,2,Medical,Male,Married,Y,6,5,3,1,3
+RM798,26,26-35,21,3,Medical,Male,Divorced,Y,1,1,1,0,0
+RM844,26,26-35,3,4,Medical,Male,Married,Y,8,8,7,0,7
+RM913,26,26-35,4,2,Life Sciences,Male,Single,Y,8,8,5,2,2
+RM999,26,26-35,2,1,Medical,Male,Single,Y,5,4,3,1,1
+RM1005,26,26-35,7,3,Other,Male,Single,Y,8,7,7,0,7
+RM1119,26,26-35,3,3,Life Sciences,Female,Married,Y,1,1,0,0,0
+RM1207,26,26-35,7,3,Medical,Male,Single,Y,7,7,7,5,7
+RM1225,26,26-35,17,4,Medical,Male,Married,Y,3,3,2,0,2
+RM1298,26,26-35,20,2,Medical,Female,Married,Y,6,5,1,1,4
+RM1310,26,26-35,10,3,Medical,Male,Single,Y,5,5,3,1,2
+RM1350,26,26-35,1,2,Life Sciences,Female,Married,Y,1,1,0,1,0
+RM1362,26,26-35,6,3,Other,Male,Married,Y,8,7,7,7,7
+RM1387,26,26-35,1,3,Medical,Male,Single,Y,8,7,7,7,6
+RM1465,26,26-35,5,3,Other,Female,Single,Y,5,4,2,0,0
+RM1465,26,26-35,5,3,Other,Female,Single,Y,5,4,2,0,5
+RM005,27,26-35,2,1,Medical,Male,Married,Y,6,2,2,2,2
+RM042,27,26-35,2,4,Life Sciences,Female,Divorced,Y,1,1,0,0,0
+RM044,27,26-35,8,3,Life Sciences,Male,Single,Y,9,9,8,1,7
+RM162,27,26-35,9,3,Medical,Male,Divorced,Y,6,2,2,2,2
+RM165,27,26-35,3,3,Medical,Male,Divorced,Y,1,1,1,0,1
+RM171,27,26-35,17,3,Technical Degree,Male,Married,Y,6,5,2,1,1
+RM192,27,26-35,9,3,Medical,Female,Single,Y,7,7,7,0,3
+RM201,27,26-35,1,1,Technical Degree,Male,Married,Y,6,2,2,2,0
+RM213,27,26-35,20,3,Life Sciences,Female,Single,Y,7,7,7,0,7
+RM319,27,26-35,5,3,Life Sciences,Female,Single,Y,4,4,3,1,2
+RM321,27,26-35,2,3,Life Sciences,Male,Single,Y,5,5,4,0,4
+RM332,27,26-35,1,1,Marketing,Male,Married,Y,6,5,4,1,4
+RM340,27,26-35,8,4,Marketing,Female,Married,Y,8,8,7,0,7
+RM374,27,26-35,1,2,Medical,Male,Divorced,Y,5,5,2,0,4
+RM486,27,26-35,6,4,Medical,Female,Divorced,Y,6,5,3,0,3
+RM496,27,26-35,2,1,Marketing,Male,Divorced,Y,5,4,3,0,2
+RM513,27,26-35,3,4,Medical,Male,Single,Y,5,4,2,1,1
+RM522,27,26-35,3,1,Medical,Female,Divorced,Y,6,6,5,0,4
+RM531,27,26-35,1,2,Life Sciences,Female,Married,Y,9,9,7,0,7
+RM538,27,26-35,10,2,Life Sciences,Male,Divorced,Y,9,9,7,1,7
+RM555,27,26-35,7,3,Medical,Female,Single,Y,9,7,6,0,7
+RM577,27,26-35,8,1,Marketing,Male,Married,Y,5,4,2,1,1
+RM611,27,26-35,5,1,Technical Degree,Male,Divorced,Y,9,9,8,0,8
+RM616,27,26-35,3,3,Medical,Male,Married,Y,0,0,0,0,0
+RM671,27,26-35,4,3,Life Sciences,Female,Single,Y,1,1,1,0,0
+RM718,27,26-35,16,4,Technical Degree,Female,Married,Y,4,2,2,2,2
+RM740,27,26-35,2,4,Life Sciences,Female,Married,Y,4,3,2,2,2
+RM787,27,26-35,8,5,Life Sciences,Male,Married,Y,3,3,2,1,2
+RM834,27,26-35,6,3,Life Sciences,Male,Married,Y,4,4,2,2,2
+RM890,27,26-35,14,3,Life Sciences,Male,Married,Y,9,9,7,6,8
+RM903,27,26-35,4,2,Life Sciences,Male,Divorced,Y,5,5,3,0,3
+RM971,27,26-35,11,3,Medical,Female,Married,Y,5,1,0,0,0
+RM975,27,26-35,2,1,Life Sciences,Male,Single,Y,8,6,2,0,0
+RM997,27,26-35,10,3,Marketing,Female,Married,Y,6,6,2,4,4
+RM998,27,26-35,17,4,Life Sciences,Female,Single,Y,8,8,2,7,7
+RM1018,RM1019,RM1020,RM1025,RM1026,RM1027,RM1031,RM1037,RM1042,RM1049,RM1052,RM1053,RM1054,RM1055
+RM1150,27,26-35,19,3,Other,Male,Divorced,Y,7,7,7,0,7
+RM1170,27,26-35,8,3,Medical,Female,Married,Y,5,3,2,0,2
+RM1171,27,26-35,2,3,Medical,Male,Single,Y,6,4,2,1,2
+RM1249,27,26-35,8,3,Medical,Female,Single,Y,6,6,2,1,4
+RM1318,27,26-35,5,2,Life Sciences,Female,Single,Y,6,5,4,0,2
+RM1329,27,26-35,23,1,Medical,Female,Married,Y,9,9,8,5,8
+RM1335,27,26-35,15,3,Life Sciences,Female,Married,Y,8,7,6,7,3
+RM1351,27,26-35,2,2,Medical,Female,Single,Y,9,8,7,0,7
+RM1368,27,26-35,2,4,Technical Degree,Male,Married,Y,6,5,3,1,2
+RM1380,27,26-35,22,3,Human Resources,Female,Married,Y,1,1,0,0,0
+RM1394,27,26-35,9,3,Marketing,Male,Single,Y,7,7,7,0,7
+RM1468,27,26-35,4,3,Life Sciences,Male,Married,Y,6,6,2,0,3
+RM1468,27,26-35,4,3,Life Sciences,Male,Married,Y,6,6,2,0,3
+RM015,28,26-35,24,3,Life Sciences,Male,Single,Y,6,4,2,0,3
+RM052,28,26-35,5,4,Technical Degree,Male,Single,Y,2,2,2,2,2
+RM098,28,26-35,4,3,Medical,Male,Married,Y,5,5,4,0,4
+RM163,28,26-35,21,3,Medical,Male,Married,Y,5,5,2,0,2
+RM265,28,26-35,2,4,Life Sciences,Male,Single,Y,5,0,0,0,0
+RM273,28,26-35,9,3,Medical,Male,Married,Y,5,5,2,0,4
+RM290,28,26-35,8,2,Life Sciences,Female,Single,Y,5,5,3,0,2
+RM303,28,26-35,16,2,Medical,Male,Single,Y,9,8,3,0,7
+RM324,28,26-35,2,4,Medical,Male,Married,Y,5,3,2,2,2
+RM375,28,26-35,9,4,Life Sciences,Male,Single,Y,7,7,5,0,7
+RM405,28,26-35,17,2,Medical,Male,Divorced,Y,10,10,0,1,
+RM541,28,26-35,1,2,Life Sciences,Female,Single,Y,10,7,7,3,7
+RM599,28,26-35,2,4,Medical,Male,Single,Y,5,2,2,2,1
+RM613,28,26-35,2,4,Marketing,Female,Married,Y,8,8,7,7,5
+RM630,28,26-35,8,2,Medical,Male,Divorced,Y,6,5,1,0,4
+RM660,28,26-35,5,4,Medical,Male,Single,Y,4,4,2,0,2
+RM669,28,26-35,9,3,Medical,Female,Divorced,Y,6,2,2,2,2
+RM765,28,26-35,10,1,Medical,Male,Married,Y,1,1,0,0,0
+RM781,28,26-35,24,2,Technical Degree,Male,Single,Y,10,10,7,1,9
+RM789,28,26-35,10,3,Other,Female,Single,Y,10,8,7,1,7
+RM794,28,26-35,15,2,Life Sciences,Male,Divorced,Y,4,4,2,2,2
+RM801,28,26-35,1,3,Medical,Male,Divorced,Y,1,1,0,0,0
+RM810,28,26-35,3,3,Medical,Female,Divorced,Y,10,9,7,1,7
+RM820,28,26-35,2,1,Life Sciences,Male,Married,Y,6,5,3,0,4
+RM828,28,26-35,6,3,Life Sciences,Male,Divorced,Y,3,3,1,0,2
+RM843,28,26-35,12,1,Life Sciences,Female,Married,Y,1,1,1,0,0
+RM869,28,26-35,19,4,Medical,Male,Married,Y,6,6,5,3,3
+RM922,28,26-35,1,4,Medical,Male,Single,Y,5,4,2,0,2
+RM930,28,26-35,2,3,Life Sciences,Male,Married,Y,2,2,2,2,2
+RM934,28,26-35,1,3,Technical Degree,Male,Single,Y,5,3,2,1,2
+RM945,28,26-35,1,3,Life Sciences,Female,Married,Y,10,9,8,7,5
+RM985,28,26-35,26,3,Life Sciences,Male,Married,Y,5,5,3,0,4
+RM1042,28,26-35,5,3,Medical,Male,Single,Y,6,5,4,1,3
+RM1057,28,26-35,1,3,Technical Degree,Male,Married,Y,5,3,2,1,2
+RM1069,28,26-35,2,2,Medical,Male,Single,Y,8,0,0,0,0
+RM1070,28,26-35,1,3,Life Sciences,Male,Divorced,Y,1,1,0,0,0
+RM1071,28,26-35,7,3,Life Sciences,Male,Single,Y,5,4,2,1,3
+RM1074,28,26-35,29,1,Life Sciences,Male,Married,Y,8,8,6,1,7
+RM1137,28,26-35,24,3,Medical,Male,Married,Y,1,1,1,0,0
+RM1152,28,26-35,27,3,Medical,Female,Divorced,Y,6,5,3,0,0
+RM1284,28,26-35,1,3,Life Sciences,Male,Married,Y,5,5,3,0,3
+RM1308,28,26-35,1,3,Medical,Female,Married,Y,3,3,2,1,2
+RM1324,28,26-35,1,2,Life Sciences,Male,Divorced,Y,3,3,2,2,2
+RM1338,28,26-35,3,3,Medical,Female,Married,Y,1,1,0,0,0
+RM1365,28,26-35,1,2,Life Sciences,Male,Married,Y,7,7,7,0,7
+RM1370,28,26-35,13,2,Marketing,Female,Single,Y,6,2,0,2,2
+RM1382,28,26-35,16,3,Medical,Male,Single,Y,5,5,3,1,4
+RM1391,28,26-35,17,3,Technical Degree,Male,Divorced,Y,6,4,1,0,3
+RM012,29,26-35,15,2,Life Sciences,Female,Single,Y,10,9,5,0,8
+RM016,29,26-35,21,4,Life Sciences,Female,Divorced,Y,10,10,9,8,8
+RM072,29,26-35,2,3,Life Sciences,Male,Married,Y,6,5,4,0,
+RM156,29,26-35,1,1,Technical Degree,Male,Married,Y,10,10,7,0,9
+RM206,29,26-35,27,3,Marketing,Female,Married,Y,10,10,4,1,
+RM218,29,26-35,1,3,Technical Degree,Male,Single,Y,7,6,2,1,5
+RM228,29,26-35,1,1,Medical,Female,Married,Y,11,11,10,4,1
+RM230,29,26-35,18,1,Medical,Male,Single,Y,4,4,3,0,1
+RM253,29,26-35,15,3,Life Sciences,Male,Single,Y,6,6,5,1,
+RM255,29,26-35,20,2,Marketing,Male,Divorced,Y,10,3,2,0,
+RM266,29,26-35,2,3,Medical,Male,Married,Y,10,0,0,0,0
+RM283,29,26-35,2,2,Life Sciences,Male,Single,Y,10,10,7,0,9
+RM337,29,26-35,8,4,Other,Male,Married,Y,7,7,7,0,7
+RM338,29,26-35,9,5,Other,Male,Single,Y,4,3,2,2,2
+RM344,29,26-35,10,1,Marketing,Female,Divorced,Y,7,7,7,1,7
+RM350,29,26-35,2,3,Life Sciences,Male,Married,Y,4,4,3,0,2
+RM372,29,26-35,23,3,Life Sciences,Male,Single,Y,6,3,2,1,2
+RM421,29,26-35,3,4,Medical,Male,Married,Y,10,10,2,0,7
+RM422,29,26-35,25,5,Technical Degree,Female,Married,Y,6,2,2,1,1
+RM455,29,26-35,19,3,Technical Degree,Male,Divorced,Y,8,3,2,1,2
+RM508,29,26-35,3,2,Medical,Female,Married,Y,6,6,0,1,2
+RM520,29,26-35,1,4,Life Sciences,Male,Divorced,Y,10,10,7,2,8
+RM547,29,26-35,10,3,Life Sciences,Male,Single,Y,1,1,0,0,0
+RM556,29,26-35,10,3,Marketing,Male,Divorced,Y,2,2,2,2,2
+RM573,29,26-35,27,3,Medical,Female,Married,Y,11,8,7,1,1
+RM590,29,26-35,1,2,Life Sciences,Female,Married,Y,1,1,0,0,0
+RM595,29,26-35,23,2,Life Sciences,Male,Married,Y,10,10,7,0,7
+RM646,29,26-35,1,3,Medical,Female,Divorced,Y,5,3,2,0,2
+RM658,29,26-35,7,1,Medical,Female,Divorced,Y,8,4,3,0,3
+RM698,29,26-35,20,3,Technical Degree,Female,Married,Y,3,3,1,0,2
+RM712,29,26-35,10,3,Life Sciences,Female,Single,Y,3,0,0,0,0
+RM809,29,26-35,28,4,Life Sciences,Female,Divorced,Y,11,7,5,1,7
+RM824,29,26-35,10,3,Life Sciences,Female,Divorced,Y,8,7,5,1,1
+RM826,29,26-35,8,1,Medical,Male,Married,Y,10,10,7,1,2
+RM837,29,26-35,23,1,Life Sciences,Female,Married,Y,11,11,8,3,10
+RM853,29,26-35,6,1,Medical,Female,Married,Y,10,10,8,0,8
+RM860,29,26-35,15,1,Life Sciences,Female,Married,Y,6,5,4,1,3
+RM894,29,26-35,1,3,Life Sciences,Female,Divorced,Y,3,3,2,1,2
+RM904,29,26-35,7,3,Life Sciences,Male,Divorced,Y,6,6,0,1,0
+RM906,29,26-35,1,3,Life Sciences,Female,Divorced,Y,9,7,7,1,7
+RM933,29,26-35,7,3,Technical Degree,Female,Divorced,Y,10,7,7,7,7
+RM1006,29,26-35,17,3,Other,Male,Single,Y,10,10,9,0,9
+RM1008,29,26-35,14,1,Other,Female,Single,Y,9,8,7,7,7
+RM1058,29,26-35,13,3,Technical Degree,Female,Single,Y,7,5,3,0,0
+RM1064,29,26-35,19,3,Life Sciences,Male,Divorced,Y,10,10,7,0,4
+RM1073,29,26-35,2,1,Life Sciences,Female,Married,Y,4,3,2,0,2
+RM1078,29,26-35,1,4,Technical Degree,Male,Single,Y,11,9,7,0,7
+RM1091,29,26-35,8,1,Other,Female,Married,Y,9,7,7,0,7
+RM1105,29,26-35,9,3,Life Sciences,Male,Married,Y,5,1,0,0,0
+RM1123,29,26-35,3,1,Medical,Male,Single,Y,10,10,9,1,5
+RM1126,29,26-35,2,1,Life Sciences,Male,Divorced,Y,6,6,4,1,3
+RM1173,29,26-35,10,3,Medical,Male,Single,Y,8,5,2,1,4
+RM1189,29,26-35,5,3,Medical,Male,Divorced,Y,10,10,0,0,9
+RM1220,29,26-35,9,4,Medical,Female,Married,Y,9,5,3,1,2
+RM1250,29,26-35,9,3,Marketing,Female,Single,Y,2,2,2,2,2
+RM1251,29,26-35,1,3,Life Sciences,Male,Single,Y,10,3,2,0,2
+RM1259,29,26-35,4,3,Technical Degree,Female,Divorced,Y,1,1,0,0,0
+RM1314,29,26-35,13,3,Human Resources,Male,Divorced,Y,4,2,2,2,0
+RM1319,29,26-35,20,1,Medical,Male,Married,Y,11,11,8,3,10
+RM1325,29,26-35,29,1,Life Sciences,Male,Divorced,Y,11,7,0,1,6
+RM1330,29,26-35,6,1,Medical,Male,Married,Y,1,1,0,0,0
+RM1333,29,26-35,24,2,Life Sciences,Male,Single,Y,1,1,0,1,0
+RM1344,29,26-35,7,3,Life Sciences,Male,Single,Y,11,3,2,1,2
+RM1366,29,26-35,24,3,Technical Degree,Male,Single,Y,1,1,0,0,0
+RM1388,29,26-35,1,3,Life Sciences,Male,Married,Y,6,5,3,0,2
+RM1443,29,26-35,1,4,Medical,Male,Married,Y,4,2,2,2,2
+RM1460,29,26-35,13,2,Other,Male,Married,Y,10,4,3,0,3
+RM1461,29,26-35,28,4,Medical,Female,Single,Y,5,5,4,0,4
+RM1461,29,26-35,28,4,Medical,Female,Single,Y,5,5,4,0,4
+RM008,30,26-35,24,1,Life Sciences,Male,Divorced,Y,1,1,0,0,
+RM033,30,26-35,9,2,Medical,Male,Single,Y,10,10,0,1,8
+RM045,30,26-35,1,2,Medical,Female,Single,Y,12,12,8,3,7
+RM081,30,26-35,1,1,Life Sciences,Male,Married,Y,10,10,8,3,0
+RM089,30,26-35,2,3,Life Sciences,Male,Married,Y,11,11,10,10,8
+RM093,30,26-35,4,2,Medical,Female,Divorced,Y,11,11,8,2,7
+RM121,30,26-35,23,3,Life Sciences,Male,Divorced,Y,10,10,7,0,9
+RM140,30,26-35,9,3,Human Resources,Male,Married,Y,12,11,9,4,
+RM144,30,26-35,18,3,Life Sciences,Female,Single,Y,5,5,4,0,
+RM146,30,26-35,5,3,Technical Degree,Female,Divorced,Y,8,3,2,2,
+RM147,30,26-35,2,1,Medical,Male,Single,Y,6,5,3,1,
+RM168,30,26-35,5,3,Life Sciences,Female,Married,Y,12,10,9,7,4
+RM174,30,26-35,9,3,Medical,Male,Divorced,Y,12,12,9,6,10
+RM212,30,26-35,1,1,Life Sciences,Male,Single,Y,12,11,8,5,8
+RM215,30,26-35,3,3,Technical Degree,Female,Single,Y,8,5,2,0,4
+RM217,30,26-35,26,4,Marketing,Female,Single,Y,9,6,3,0,1
+RM325,30,26-35,28,2,Medical,Female,Married,Y,11,10,8,1,9
+RM339,30,26-35,5,3,Marketing,Female,Divorced,Y,10,10,9,1,2
+RM355,30,26-35,25,2,Technical Degree,Female,Married,Y,4,2,2,2,2
+RM382,30,26-35,2,1,Technical Degree,Male,Married,Y,1,1,0,0,0
+RM386,30,26-35,4,3,Technical Degree,Male,Single,Y,3,1,0,0,0
+RM403,30,26-35,12,3,Technical Degree,Female,Single,Y,6,5,4,4,4
+RM411,30,26-35,2,3,Life Sciences,Female,Single,Y,11,5,4,0,2
+RM420,30,26-35,3,3,Life Sciences,Male,Married,Y,9,5,3,1,4
+RM424,30,26-35,22,4,Other,Female,Married,Y,10,9,8,7,8
+RM427,30,26-35,2,3,Medical,Female,Single,Y,12,11,7,6,7
+RM438,30,26-35,7,1,Marketing,Male,Single,Y,4,3,2,1,2
+RM481,30,26-35,12,4,Life Sciences,Male,Married,Y,1,1,0,0,0
+RM502,30,26-35,3,3,Medical,Female,Divorced,Y,1,1,0,0,0
+RM546,30,26-35,27,5,Marketing,Male,Divorced,Y,10,8,7,7,7
+RM582,30,26-35,1,3,Life Sciences,Male,Married,Y,7,2,2,0,2
+RM603,30,26-35,2,3,Medical,Female,Single,Y,12,0,0,0,0
+RM624,30,26-35,5,4,Life Sciences,Male,Divorced,Y,10,5,4,0,3
+RM703,30,26-35,8,2,Other,Male,Divorced,Y,10,8,4,7,7
+RM721,30,26-35,22,3,Life Sciences,Female,Married,Y,7,5,2,0,1
+RM731,30,26-35,8,2,Life Sciences,Female,Married,Y,9,8,7,1,7
+RM733,30,26-35,5,3,Medical,Female,Single,Y,4,3,2,1,2
+RM783,30,26-35,20,3,Other,Male,Married,Y,7,6,2,0,2
+RM845,30,26-35,10,3,Marketing,Male,Married,Y,10,10,3,1,4
+RM866,30,26-35,29,4,Life Sciences,Male,Divorced,Y,8,4,3,0,3
+RM875,30,26-35,7,4,Life Sciences,Male,Divorced,Y,10,10,7,8,9
+RM887,30,26-35,1,3,Medical,Male,Married,Y,12,11,9,5,7
+RM932,30,26-35,9,2,Medical,Female,Single,Y,10,8,4,1,7
+RM942,30,26-35,6,3,Technical Degree,Female,Married,Y,10,9,2,6,7
+RM949,30,26-35,17,4,Medical,Female,Married,Y,9,9,1,0,8
+RM1014,30,26-35,7,4,Marketing,Female,Divorced,Y,8,3,2,0,2
+RM1050,30,26-35,16,1,Life Sciences,Male,Married,Y,4,2,1,2,2
+RM1053,30,26-35,7,3,Technical Degree,Male,Divorced,Y,1,1,0,0,0
+RM1065,30,26-35,1,3,Life Sciences,Male,Divorced,Y,6,5,3,1,3
+RM1107,30,26-35,1,3,Life Sciences,Male,Married,Y,10,10,8,6,7
+RM1110,30,26-35,29,4,Technical Degree,Male,Married,Y,9,4,2,1,3
+RM1142,30,26-35,7,3,Medical,Male,Married,Y,6,6,4,1,1
+RM1234,30,26-35,16,1,Life Sciences,Male,Married,Y,10,10,0,0,8
+RM1245,30,26-35,2,4,Technical Degree,Female,Single,Y,10,9,7,0,7
+RM1247,30,26-35,8,3,Human Resources,Female,Divorced,Y,6,4,2,1,2
+RM1252,30,26-35,15,2,Marketing,Male,Divorced,Y,12,7,7,1,7
+RM1260,30,26-35,16,3,Life Sciences,Male,Married,Y,10,7,0,1,7
+RM1297,30,26-35,10,3,Medical,Female,Single,Y,9,7,7,0,2
+RM1339,30,26-35,9,3,Medical,Male,Single,Y,1,1,0,0,0
+RM1413,30,26-35,1,2,Medical,Male,Married,Y,12,12,8,1,7
+RM013,31,26-35,26,1,Life Sciences,Male,Divorced,Y,5,5,2,4,3
+RM059,31,26-35,7,4,Life Sciences,Male,Divorced,Y,10,7,7,1,7
+RM073,31,26-35,1,4,Medical,Male,Single,Y,1,1,1,1,
+RM076,31,26-35,8,4,Life Sciences,Female,Single,Y,11,11,7,1,
+RM125,31,26-35,6,4,Life Sciences,Male,Married,Y,12,7,7,7,7
+RM133,31,26-35,20,3,Life Sciences,Female,Married,Y,4,2,2,2,2
+RM181,31,26-35,12,1,Medical,Female,Married,Y,7,4,2,0,2
+RM225,31,26-35,1,4,Medical,Male,Married,Y,6,5,4,1,4
+RM246,31,26-35,3,4,Medical,Male,Divorced,Y,9,2,2,2,2
+RM260,31,26-35,29,2,Medical,Male,Single,Y,6,5,4,1,4
+RM267,31,26-35,23,3,Medical,Male,Married,Y,10,9,0,7,8

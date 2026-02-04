@@ -1,0 +1,401 @@
+﻿员工 ID,员工流失,商务出行频率,日薪,部门,员工人数,员工编号,工作环境满意度,时薪,工作投入度,职位级别,职位角色,工作满意度,月收入,薪资等级,月薪标准,工作过的公司数量,是否加班,薪资涨幅百分比,绩效评级,人际关系满意度,标准工时,股票期权等级,去年培训次数,工作生活平衡度
+RM297,Yes,Travel_Rarely,230,Research & Development,1,405,3,54,3,1,Laboratory Technician,3,1420,Upto 5k,25233,1,No,13,3,3,80,0,2,3
+RM302,No,Travel_Rarely,812,Sales,1,411,4,69,2,1,Sales Representative,3,1200,Upto 5k,9724,1,No,12,3,1,80,0,2,3
+RM458,Yes,Travel_Frequently,1306,Sales,1,614,2,69,3,1,Sales Representative,2,1878,Upto 5k,8059,1,Yes,14,3,4,80,0,3,3
+RM728,No,Non-Travel,287,Research & Development,1,1012,2,73,3,1,Research Scientist,4,1051,Upto 5k,13493,1,No,15,3,4,80,0,2,3
+RM829,Yes,Non-Travel,247,Research & Development,1,1156,3,80,3,1,Laboratory Technician,3,1904,Upto 5k,13556,1,No,12,3,4,80,0,0,3
+RM973,No,Non-Travel,1124,Research & Development,1,1368,4,97,3,1,Laboratory Technician,4,1611,Upto 5k,19305,1,No,15,3,3,80,0,5,4
+RM1154,Yes,Travel_Frequently,544,Sales,1,1624,2,70,3,1,Sales Representative,4,1569,Upto 5k,18420,1,Yes,12,3,3,80,0,2,4
+RM1312,No,Non-Travel,1431,Research & Development,1,1839,2,33,3,1,Research Scientist,3,1514,Upto 5k,8018,1,No,16,3,3,80,0,4,1
+RM128,Yes,Travel_Rarely,528,Sales,1,167,4,50,3,1,Sales Representative,3,1675,Upto 5k,26820,1,Yes,19,3,4,80,0,2,2
+RM150,No,Travel_Rarely,1181,Research & Development,1,201,2,79,3,1,Laboratory Technician,2,1483,Upto 5k,16102,1,No,14,3,4,80,0,3,3
+RM172,Yes,Travel_Frequently,602,Sales,1,235,3,100,1,1,Sales Representative,1,2325,Upto 5k,20989,0,No,21,4,1,80,0,5,4
+RM178,Yes,Travel_Rarely,303,Research & Development,1,243,2,47,2,1,Laboratory Technician,4,1102,Upto 5k,9241,1,No,22,4,3,80,0,3,2
+RM423,Yes,Travel_Rarely,489,Human Resources,1,566,1,52,2,1,Human Resources,4,2564,Upto 5k,18437,1,No,12,3,3,80,0,3,4
+RM689,Yes,Travel_Rarely,419,Sales,1,959,4,37,2,1,Sales Representative,2,2121,Upto 5k,9947,1,Yes,13,3,2,80,0,3,4
+RM854,No,Travel_Rarely,645,Research & Development,1,1193,3,54,3,1,Research Scientist,1,2552,Upto 5k,7172,1,No,25,4,3,80,0,4,3
+RM893,Yes,Non-Travel,504,Research & Development,1,1248,1,96,2,1,Research Scientist,2,1859,Upto 5k,6148,1,Yes,25,4,2,80,0,2,4
+RM910,No,Travel_Rarely,265,Research & Development,1,1269,2,57,4,1,Research Scientist,4,2994,Upto 5k,21221,1,Yes,12,3,4,80,0,2,3
+RM103,Yes,Travel_Frequently,871,Research & Development,1,137,4,66,2,1,Laboratory Technician,4,2926,Upto 5k,19783,1,Yes,18,3,2,80,0,5,3
+RM488,No,Travel_Rarely,959,Research & Development,1,657,4,83,2,1,Research Scientist,2,2836,Upto 5k,11757,1,No,13,3,4,80,0,0,4
+RM514,Yes,Travel_Rarely,1362,Research & Development,1,701,4,32,3,1,Research Scientist,3,1009,Upto 5k,26999,1,Yes,11,3,4,80,0,5,3
+RM663,Yes,Travel_Rarely,500,Sales,1,922,3,49,2,1,Sales Representative,3,2044,Upto 5k,22052,1,No,13,3,4,80,0,3,2
+RM690,Yes,Travel_Rarely,129,Research & Development,1,960,1,84,3,1,Laboratory Technician,1,2973,Upto 5k,13008,1,No,19,3,2,80,0,2,3
+RM732,Yes,Travel_Rarely,1097,Research & Development,1,1016,4,98,2,1,Research Scientist,1,2600,Upto 5k,18275,1,Yes,15,3,1,80,0,2,3
+RM777,Yes,Travel_Frequently,769,Sales,1,1077,4,54,3,1,Sales Representative,4,2323,Upto 5k,17205,1,Yes,14,3,2,80,0,3,3
+RM857,No,Travel_Rarely,805,Research & Development,1,1198,1,87,2,1,Laboratory Technician,3,3033,Upto 5k,12828,1,No,12,3,1,80,0,2,2
+RM877,No,Travel_Rarely,654,Sales,1,1226,3,43,4,1,Sales Representative,4,2678,Upto 5k,5050,1,No,17,3,4,80,0,2,3
+RM1179,No,Travel_Rarely,1141,Sales,1,1657,3,31,3,1,Sales Representative,3,2783,Upto 5k,13251,1,No,19,3,1,80,0,3,3
+RM1198,No,Travel_Rarely,727,Sales,1,1680,4,54,3,1,Sales Representative,1,2728,Upto 5k,21082,1,No,11,3,1,80,0,3,3
+RM024,No,Travel_Rarely,391,Research & Development,1,30,3,96,3,1,Research Scientist,4,1232,Upto 5k,19281,1,No,14,3,4,80,0,6,3
+RM275,No,Travel_Rarely,996,Research & Development,1,379,4,100,2,1,Research Scientist,3,3230,Upto 5k,10531,1,No,17,3,1,80,0,4,4
+RM358,Yes,Travel_Frequently,756,Sales,1,478,1,99,2,1,Sales Representative,2,2174,Upto 5k,9150,1,Yes,11,3,3,80,0,3,3
+RM363,No,Non-Travel,895,Sales,1,484,1,39,3,1,Sales Representative,4,2610,Upto 5k,2851,1,No,24,4,3,80,0,3,2
+RM371,Yes,Travel_Rarely,156,Sales,1,494,3,90,4,1,Sales Representative,2,2716,Upto 5k,25422,1,No,15,3,4,80,0,0,3
+RM497,No,Travel_Rarely,1343,Sales,1,669,3,49,3,1,Sales Representative,3,3447,Upto 5k,24444,1,No,11,3,3,80,0,2,3
+RM664,Yes,Travel_Rarely,1427,Research & Development,1,923,4,65,3,1,Research Scientist,4,2693,Upto 5k,8870,1,No,19,3,1,80,0,3,2
+RM778,Yes,Travel_Rarely,1334,Research & Development,1,1079,3,36,2,1,Laboratory Technician,1,1416,Upto 5k,17258,1,No,13,3,1,80,0,6,2
+RM816,No,Travel_Rarely,984,Research & Development,1,1131,4,70,2,1,Research Scientist,2,2070,Upto 5k,25326,1,Yes,11,3,3,80,0,6,4
+RM916,Yes,Travel_Frequently,251,Research & Development,1,1279,1,45,2,1,Laboratory Technician,3,2625,Upto 5k,25308,1,No,20,4,3,80,0,2,1
+RM1153,No,Travel_Rarely,546,Research & Development,1,1623,3,97,3,1,Research Scientist,4,3117,Upto 5k,26009,1,No,18,3,3,80,0,2,3
+RM1272,Yes,Travel_Rarely,337,Sales,1,1780,2,31,3,1,Sales Representative,2,2679,Upto 5k,4567,1,No,13,3,2,80,0,3,3
+RM1437,No,Travel_Rarely,501,Sales,1,2021,3,58,3,1,Sales Representative,1,2380,Upto 5k,25479,1,Yes,11,3,4,80,0,6,3
+RM018,No,Non-Travel,1123,Research & Development,1,22,4,96,4,1,Laboratory Technician,4,2935,Upto 5k,7324,1,Yes,13,3,2,80,2,2,2
+RM110,No,Travel_Rarely,534,Research & Development,1,144,2,59,3,1,Laboratory Technician,4,2871,Upto 5k,23785,1,No,15,3,3,80,0,5,3
+RM129,No,Travel_Rarely,594,Research & Development,1,169,3,100,3,1,Laboratory Technician,4,2523,Upto 5k,19299,0,No,14,3,3,80,1,2,3
+RM161,No,Travel_Rarely,1256,Research & Development,1,217,3,80,3,1,Research Scientist,4,2323,Upto 5k,11992,1,No,24,4,1,80,2,6,3
+RM207,No,Travel_Rarely,1136,Research & Development,1,284,4,60,4,1,Research Scientist,2,2328,Upto 5k,12392,1,Yes,16,3,1,80,1,2,2
+RM384,No,Travel_Rarely,253,Research & Development,1,511,1,43,3,1,Research Scientist,2,2244,Upto 5k,24440,1,No,13,3,4,80,1,1,3
+RM444,Yes,Travel_Frequently,1368,Research & Development,1,593,3,99,2,1,Laboratory Technician,3,3894,Upto 5k,9129,5,No,16,3,3,80,0,3,3
+RM499,No,Travel_Rarely,604,Research & Development,1,675,1,69,3,1,Research Scientist,3,2773,Upto 5k,12145,0,No,20,4,4,80,0,3,3
+RM631,No,Travel_Rarely,1230,Research & Development,1,872,4,33,2,2,Manufacturing Director,4,4775,Upto 5k,19146,6,No,22,4,1,80,2,2,1
+RM667,Yes,Travel_Rarely,617,Research & Development,1,926,2,34,3,2,Manufacturing Director,3,4171,Upto 5k,10022,0,Yes,19,3,1,80,1,3,4
+RM735,No,Travel_Rarely,217,Research & Development,1,1019,2,94,1,1,Laboratory Technician,1,2451,Upto 5k,6881,1,No,15,3,1,80,1,3,2
+RM861,Yes,Travel_Frequently,1256,Research & Development,1,1203,3,48,2,1,Research Scientist,4,2853,Upto 5k,4223,0,Yes,11,3,2,80,1,5,3
+RM1138,No,Non-Travel,457,Research & Development,1,1605,2,85,2,1,Research Scientist,3,2814,Upto 5k,10293,1,Yes,14,3,2,80,0,2,2
+RM1274,Yes,Travel_Rarely,1294,Research & Development,1,1783,3,79,3,1,Laboratory Technician,1,2398,Upto 5k,15999,1,Yes,17,3,3,80,0,6,3
+RM1340,Yes,Travel_Rarely,391,Research & Development,1,1878,4,75,3,1,Research Scientist,2,2472,Upto 5k,26092,1,Yes,23,4,1,80,0,2,3
+RM1424,No,Travel_Rarely,581,Research & Development,1,2007,4,63,3,1,Research Scientist,3,3375,Upto 5k,17624,0,No,12,3,4,80,0,2,4
+RM087,No,Travel_Rarely,541,Sales,1,113,3,62,3,1,Sales Representative,1,2322,Upto 5k,9518,3,No,13,3,3,80,1,3,3
+RM346,No,Travel_Rarely,1309,Research & Development,1,465,3,83,3,1,Research Scientist,4,2904,Upto 5k,16092,1,No,12,3,3,80,2,2,2
+RM517,No,Travel_Rarely,885,Research & Development,1,705,1,58,4,1,Research Scientist,1,2819,Upto 5k,8544,2,No,16,3,1,80,1,3,4
+RM551,No,Travel_Rarely,650,Research & Development,1,758,2,37,3,1,Laboratory Technician,1,2500,Upto 5k,4344,1,No,14,3,4,80,1,2,4
+RM566,No,Travel_Rarely,310,Research & Development,1,784,1,79,4,1,Research Scientist,3,3505,Upto 5k,19630,1,No,18,3,4,80,0,3,3
+RM586,Yes,Travel_Rarely,1243,Research & Development,1,811,3,63,4,1,Laboratory Technician,1,1601,Upto 5k,3445,1,Yes,21,4,3,80,2,2,3
+RM911,No,Travel_Rarely,373,Research & Development,1,1270,4,47,3,1,Research Scientist,3,1223,Upto 5k,16901,1,No,22,4,4,80,1,2,3
+RM1083,No,Travel_Rarely,507,Research & Development,1,1533,1,97,3,2,Laboratory Technician,3,2272,Upto 5k,24812,0,No,14,3,2,80,0,2,3
+RM1128,No,Travel_Rarely,977,Research & Development,1,1592,4,45,4,1,Research Scientist,3,2073,Upto 5k,12826,2,No,16,3,4,80,1,2,3
+RM1202,Yes,Travel_Rarely,1320,Research & Development,1,1684,4,93,2,1,Laboratory Technician,3,3989,Upto 5k,20586,1,Yes,11,3,1,80,0,2,3
+RM1214,Yes,Travel_Rarely,427,Sales,1,1702,3,99,3,1,Sales Representative,4,2275,Upto 5k,25103,1,Yes,21,4,2,80,1,2,3
+RM1239,No,Travel_Rarely,160,Research & Development,1,1735,3,51,3,1,Laboratory Technician,2,3295,Upto 5k,12862,1,No,13,3,3,80,0,3,1
+RM1409,No,Travel_Rarely,571,Research & Development,1,1982,4,78,3,1,Laboratory Technician,4,2647,Upto 5k,13672,1,No,13,3,3,80,0,6,4
+RM1439,Yes,Travel_Frequently,638,Sales,1,2023,4,33,3,1,Sales Representative,1,1790,Upto 5k,26956,1,No,19,3,1,80,1,3,2
+RM021,No,Non-Travel,673,Research & Development,1,26,1,96,4,2,Manufacturing Director,3,4011,Upto 5k,8232,0,No,18,3,4,80,1,5,2
+RM035,Yes,Travel_Rarely,813,Research & Development,1,45,2,61,3,1,Research Scientist,4,2293,Upto 5k,3020,2,Yes,16,3,1,80,1,2,2
+RM097,No,Travel_Rarely,1353,Sales,1,128,1,33,3,2,Sales Executive,3,4999,Upto 5k,17519,0,No,21,4,1,80,1,2,2
+RM114,No,Travel_Rarely,1127,Research & Development,1,150,2,52,3,1,Laboratory Technician,3,2774,Upto 5k,13257,0,No,12,3,3,80,1,2,3
+RM381,No,Travel_Rarely,1371,Sales,1,507,4,77,3,2,Sales Executive,3,4260,Upto 5k,5915,1,Yes,12,3,4,80,1,2,4
+RM415,Yes,Travel_Rarely,1448,Sales,1,554,1,62,3,1,Sales Representative,2,3202,Upto 5k,21972,1,Yes,16,3,2,80,0,4,3
+RM471,No,Travel_Frequently,535,Sales,1,632,4,38,3,1,Sales Representative,4,2400,Upto 5k,5530,0,No,13,3,3,80,2,3,3
+RM475,No,Travel_Rarely,691,Research & Development,1,639,2,89,4,1,Research Scientist,4,2725,Upto 5k,21630,1,Yes,11,3,2,80,2,3,3
+RM477,No,Travel_Rarely,823,Research & Development,1,643,4,94,2,1,Laboratory Technician,2,2127,Upto 5k,9100,1,No,21,4,4,80,1,2,3
+RM480,Yes,Travel_Frequently,1287,Research & Development,1,647,1,55,3,1,Laboratory Technician,3,2886,Upto 5k,14168,1,Yes,16,3,4,80,1,4,3
+RM526,Yes,Travel_Rarely,693,Sales,1,720,1,65,3,2,Sales Executive,3,4577,Upto 5k,24785,9,No,14,3,1,80,0,3,3
+RM587,No,Non-Travel,1092,Research & Development,1,812,3,60,2,1,Laboratory Technician,2,2694,Upto 5k,26551,1,No,11,3,3,80,3,4,3
+RM641,No,Non-Travel,1269,Research & Development,1,888,1,46,2,1,Laboratory Technician,4,3162,Upto 5k,10778,0,No,17,3,4,80,0,2,2
+RM725,No,Travel_Rarely,1206,Research & Development,1,1009,4,41,2,2,Manufacturing Director,3,4377,Upto 5k,24117,1,No,15,3,2,80,2,6,3
+RM842,No,Travel_Rarely,477,Research & Development,1,1173,4,49,3,1,Laboratory Technician,2,3597,Upto 5k,6409,8,No,22,4,4,80,0,2,3
+RM872,Yes,Travel_Rarely,984,Research & Development,1,1219,4,97,3,1,Laboratory Technician,2,2210,Upto 5k,3372,1,No,13,3,1,80,1,3,1
+RM1026,No,Travel_Rarely,1476,Sales,1,1445,4,42,3,2,Sales Executive,3,4162,Upto 5k,15211,1,Yes,12,3,3,80,2,3,3
+RM1061,Yes,Travel_Frequently,381,Research & Development,1,1494,2,89,3,1,Laboratory Technician,1,3172,Upto 5k,16998,2,Yes,11,3,3,80,0,2,2
+RM1062,No,Non-Travel,830,Sales,1,1495,4,78,3,1,Sales Representative,2,2033,Upto 5k,7103,1,No,13,3,3,80,1,2,3
+RM1098,No,Travel_Rarely,350,Research & Development,1,1551,3,57,2,1,Laboratory Technician,1,2296,Upto 5k,10036,0,No,14,3,2,80,3,3,3
+RM1169,No,Travel_Frequently,567,Research & Development,1,1646,1,32,3,1,Research Scientist,4,3760,Upto 5k,17218,1,Yes,13,3,3,80,0,2,3
+RM1218,No,Travel_Rarely,581,Research & Development,1,1707,3,62,4,1,Research Scientist,3,4401,Upto 5k,17616,1,No,16,3,4,80,1,1,3
+RM1223,Yes,Travel_Rarely,240,Human Resources,1,1714,4,58,1,1,Human Resources,3,1555,Upto 5k,11585,1,No,11,3,3,80,1,2,3
+RM1231,No,Travel_Rarely,506,Research & Development,1,1725,2,91,3,1,Laboratory Technician,1,3907,Upto 5k,3622,1,No,13,3,2,80,3,2,4
+RM1246,No,Travel_Frequently,897,Human Resources,1,1746,1,59,3,1,Human Resources,4,2145,Upto 5k,2097,0,No,14,3,4,80,1,2,3
+RM1408,No,Travel_Rarely,771,Research & Development,1,1981,2,45,2,2,Healthcare Representative,3,4617,Upto 5k,14120,1,No,12,3,2,80,0,2,2
+RM108,Yes,Travel_Rarely,240,Sales,1,142,3,46,2,2,Sales Executive,3,5744,5k-10k,26959,1,Yes,11,3,4,80,0,1,3
+RM109,No,Travel_Rarely,1280,Research & Development,1,143,4,64,2,1,Research Scientist,4,2889,Upto 5k,26897,1,No,11,3,3,80,2,2,3
+RM139,No,Travel_Rarely,959,Sales,1,183,1,41,2,2,Sales Executive,3,8639,5k-10k,24835,2,No,18,3,4,80,0,3,3
+RM256,No,Travel_Rarely,685,Research & Development,1,350,1,62,3,2,Manufacturing Director,3,4898,Upto 5k,7505,0,No,12,3,4,80,2,3,3
+RM268,No,Non-Travel,675,Research & Development,1,369,2,85,4,2,Healthcare Representative,1,4000,Upto 5k,18384,1,No,12,3,4,80,2,2,3
+RM398,No,Travel_Rarely,891,Sales,1,527,2,99,2,2,Sales Executive,4,4487,Upto 5k,12090,1,Yes,11,3,2,80,0,3,3
+RM406,Yes,Travel_Rarely,688,Research & Development,1,538,1,91,3,1,Laboratory Technician,1,4031,Upto 5k,9396,5,No,13,3,3,80,1,5,3
+RM479,No,Travel_Rarely,622,Sales,1,645,2,40,3,1,Sales Representative,3,2096,Upto 5k,26376,1,No,11,3,3,80,0,1,3
+RM518,No,Travel_Rarely,810,Sales,1,707,4,57,4,2,Sales Executive,2,4851,Upto 5k,15678,0,No,22,4,3,80,1,4,3
+RM564,No,Travel_Rarely,883,Sales,1,781,3,32,3,2,Sales Executive,4,6180,5k-10k,22807,1,No,23,4,2,80,0,5,2
+RM619,No,Travel_Rarely,180,Research & Development,1,854,1,65,4,1,Research Scientist,1,3424,Upto 5k,21632,7,No,13,3,3,80,0,3,2
+RM635,No,Travel_Rarely,141,Sales,1,879,3,98,3,2,Sales Executive,1,4194,Upto 5k,14363,1,Yes,18,3,4,80,0,3,3
+RM639,No,Travel_Rarely,583,Sales,1,885,3,87,2,2,Sales Executive,1,4256,Upto 5k,18154,1,No,12,3,1,80,0,1,4
+RM684,Yes,Travel_Rarely,867,Sales,1,952,3,36,2,1,Sales Representative,2,2413,Upto 5k,18798,1,Yes,18,3,3,80,3,2,3
+RM797,Yes,Travel_Rarely,1219,Research & Development,1,1106,4,32,3,1,Laboratory Technician,4,3691,Upto 5k,4605,1,Yes,15,3,2,80,1,3,4
+RM886,No,Travel_Rarely,1356,Sales,1,1240,3,57,3,2,Sales Executive,4,4950,Upto 5k,20623,0,No,14,3,2,80,0,4,3
+RM912,Yes,Travel_Frequently,599,Sales,1,1273,3,73,1,1,Sales Representative,4,1118,Upto 5k,8040,1,Yes,14,3,4,80,0,4,3
+RM935,No,Travel_Rarely,266,Research & Development,1,1303,4,40,3,1,Research Scientist,2,2096,Upto 5k,18830,1,No,18,3,4,80,0,3,2
+RM966,No,Travel_Rarely,882,Research & Development,1,1358,4,67,3,1,Laboratory Technician,4,3669,Upto 5k,9075,3,No,11,3,3,80,3,6,2
+RM994,No,Travel_Rarely,1372,Sales,1,1399,1,93,4,2,Sales Executive,3,6232,5k-10k,12477,2,No,11,3,2,80,0,3,2
+RM1004,No,Travel_Rarely,949,Research & Development,1,1415,1,81,3,1,Laboratory Technician,4,3229,Upto 5k,4910,4,No,11,3,2,80,1,2,2
+RM1022,Yes,Travel_Rarely,383,Sales,1,1439,1,68,2,1,Sales Representative,1,4400,Upto 5k,15182,3,No,12,3,1,80,0,2,3
+RM1175,No,Travel_Frequently,772,Research & Development,1,1653,4,77,4,2,Manufacturing Director,3,5206,5k-10k,4973,1,No,17,3,3,80,2,6,3
+RM1412,No,Travel_Rarely,309,Human Resources,1,1987,3,82,3,1,Human Resources,2,2187,Upto 5k,19655,4,No,14,3,3,80,0,3,3
+RM1414,No,Travel_Rarely,977,Research & Development,1,1992,4,57,3,1,Laboratory Technician,3,3977,Upto 5k,7298,6,Yes,19,3,3,80,1,2,2
+RM1434,No,Travel_Rarely,1382,Sales,1,2018,1,85,3,2,Sales Executive,3,4907,Upto 5k,13684,0,Yes,22,4,2,80,1,3,2
+RM043,Yes,Travel_Rarely,1357,Research & Development,1,55,1,48,1,1,Laboratory Technician,3,2293,Upto 5k,10558,1,No,12,3,3,80,0,2,2
+RM055,No,Travel_Rarely,1443,Sales,1,72,3,47,2,2,Sales Executive,4,4157,Upto 5k,21436,7,Yes,19,3,3,80,1,2,2
+RM126,No,Travel_Rarely,841,Research & Development,1,164,3,46,2,1,Research Scientist,2,2368,Upto 5k,23300,1,No,19,3,3,80,0,3,2
+RM135,No,Travel_Rarely,1355,Human Resources,1,177,3,61,3,1,Human Resources,3,2942,Upto 5k,8916,1,No,23,4,4,80,1,3,3
+RM279,No,Travel_Frequently,1479,Research & Development,1,384,3,84,3,2,Manufacturing Director,2,6397,5k-10k,26767,1,No,20,4,1,80,1,6,1
+RM285,No,Travel_Frequently,496,Research & Development,1,390,1,60,3,2,Healthcare Representative,1,4741,Upto 5k,22722,1,Yes,13,3,3,80,1,3,3
+RM289,Yes,Travel_Rarely,1449,Research & Development,1,394,1,45,3,1,Laboratory Technician,2,2373,Upto 5k,14180,2,Yes,13,3,4,80,1,2,3
+RM294,Yes,Travel_Rarely,950,Sales,1,401,4,48,2,2,Sales Executive,4,5828,5k-10k,8450,1,Yes,12,3,2,80,0,0,3
+RM356,No,Travel_Rarely,933,Sales,1,476,3,57,3,2,Sales Executive,3,5296,5k-10k,20156,1,No,17,3,2,80,1,3,3
+RM383,Yes,Travel_Frequently,575,Research & Development,1,510,3,73,3,1,Research Scientist,1,3102,Upto 5k,6582,0,No,22,4,3,80,0,2,3
+RM419,No,Travel_Rarely,1349,Research & Development,1,560,1,90,3,1,Research Scientist,4,2886,Upto 5k,3032,1,No,22,4,2,80,2,3,1
+RM454,Yes,Travel_Frequently,426,Human Resources,1,608,2,58,3,1,Human Resources,3,2741,Upto 5k,22808,0,Yes,11,3,2,80,1,2,2
+RM461,No,Travel_Rarely,775,Sales,1,618,1,45,3,2,Sales Executive,3,4306,Upto 5k,4267,5,No,12,3,1,80,2,5,3
+RM464,Yes,Travel_Rarely,471,Research & Development,1,622,3,66,1,1,Laboratory Technician,4,2340,Upto 5k,23213,1,Yes,18,3,2,80,0,3,1
+RM476,No,Travel_Rarely,703,Sales,1,641,1,66,3,2,Sales Executive,2,6272,5k-10k,7428,1,No,20,4,4,80,2,5,4
+RM506,No,Travel_Rarely,991,Research & Development,1,686,3,71,3,1,Laboratory Technician,4,2659,Upto 5k,17759,1,Yes,13,3,3,80,1,2,3
+RM572,No,Travel_Frequently,575,Research & Development,1,792,1,71,1,1,Laboratory Technician,4,4364,Upto 5k,5288,3,No,14,3,1,80,1,2,3
+RM574,Yes,Travel_Rarely,1146,Sales,1,796,4,38,2,2,Sales Executive,1,5326,5k-10k,3064,6,No,17,3,3,80,0,2,2
+RM615,Yes,Travel_Frequently,887,Research & Development,1,848,3,88,2,1,Research Scientist,3,2366,Upto 5k,20898,1,Yes,14,3,1,80,1,2,3
+RM686,No,Travel_Frequently,1283,Sales,1,956,3,52,2,2,Sales Executive,1,4294,Upto 5k,11148,1,No,12,3,2,80,0,2,3
+RM734,No,Travel_Rarely,1066,Research & Development,1,1018,4,32,4,2,Manufacturing Director,4,5472,5k-10k,3334,1,No,12,3,2,80,0,2,3
+RM749,Yes,Non-Travel,265,Sales,1,1037,2,79,1,2,Sales Executive,1,4969,Upto 5k,21813,8,No,18,3,4,80,0,6,3
+RM763,Yes,Travel_Frequently,342,Research & Development,1,1053,1,57,3,1,Research Scientist,1,2042,Upto 5k,15346,6,Yes,14,3,2,80,1,2,3
+RM770,No,Travel_Frequently,921,Research & Development,1,1068,1,66,2,1,Research Scientist,3,2007,Upto 5k,25265,1,No,13,3,3,80,2,5,3
+RM782,No,Travel_Rarely,192,Research & Development,1,1083,1,59,2,1,Laboratory Technician,1,3955,Upto 5k,11141,1,No,16,3,1,80,2,2,3
+RM798,Yes,Travel_Rarely,1330,Research & Development,1,1107,1,37,3,1,Laboratory Technician,3,2377,Upto 5k,19373,1,No,20,4,3,80,1,0,2
+RM844,No,Travel_Rarely,1384,Research & Development,1,1177,1,82,4,1,Laboratory Technician,4,4420,Upto 5k,13421,1,No,22,4,2,80,1,2,3
+RM913,No,Travel_Rarely,583,Research & Development,1,1275,3,53,3,1,Research Scientist,4,2875,Upto 5k,9973,1,Yes,20,4,2,80,0,2,2
+RM999,No,Travel_Rarely,683,Research & Development,1,1407,1,36,2,1,Research Scientist,4,3904,Upto 5k,4050,0,No,12,3,4,80,0,2,3
+RM1005,No,Travel_Rarely,652,Research & Development,1,1417,3,100,4,1,Laboratory Technician,1,3578,Upto 5k,23577,0,No,12,3,4,80,0,2,3
+RM1119,No,Travel_Rarely,474,Research & Development,1,1581,1,89,3,1,Research Scientist,4,2061,Upto 5k,11133,1,No,21,4,1,80,0,5,3
+RM1207,No,Non-Travel,786,Research & Development,1,1693,4,76,3,1,Laboratory Technician,4,2570,Upto 5k,11925,1,No,20,4,3,80,0,5,3
+RM1225,No,Travel_Rarely,390,Research & Development,1,1718,4,62,1,1,Laboratory Technician,3,2305,Upto 5k,6217,1,No,15,3,3,80,3,3,4
+RM1298,Yes,Travel_Rarely,920,Human Resources,1,1818,4,69,3,1,Human Resources,2,2148,Upto 5k,6889,0,Yes,11,3,3,80,0,3,3
+RM1310,No,Travel_Rarely,572,Sales,1,1836,3,46,3,2,Sales Executive,4,4684,Upto 5k,9125,1,No,13,3,1,80,0,4,3
+RM1350,No,Travel_Rarely,482,Research & Development,1,1893,2,90,2,1,Research Scientist,3,2933,Upto 5k,14908,1,Yes,13,3,3,80,1,3,2
+RM1362,No,Travel_Frequently,1096,Research & Development,1,1918,3,61,4,1,Laboratory Technician,4,2544,Upto 5k,7102,0,No,18,3,1,80,1,3,3
+RM1387,No,Travel_Rarely,157,Research & Development,1,1952,3,95,3,1,Laboratory Technician,1,2867,Upto 5k,20006,0,No,13,3,4,80,0,6,2
+RM1465,No,Travel_Rarely,1167,Sales,1,2060,4,30,2,1,Sales Representative,3,2966,Upto 5k,21378,0,No,18,3,4,80,0,2,3
+RM1465,No,Travel_Rarely,1167,Sales,1,2060,4,30,2,1,Sales Representative,3,2966,Upto 5k,21378,0,No,18,3,4,80,0,2,3
+RM005,No,Travel_Rarely,591,Research & Development,1,7,1,40,3,1,Laboratory Technician,2,3468,Upto 5k,16632,9,No,12,3,4,80,1,3,3
+RM042,No,Travel_Rarely,1240,Research & Development,1,54,4,33,3,1,Laboratory Technician,1,2341,Upto 5k,19715,1,No,13,3,4,80,1,6,3
+RM044,No,Travel_Frequently,994,Sales,1,56,4,37,3,3,Sales Executive,3,8726,5k-10k,2975,1,No,15,3,4,80,0,0,3
+RM162,No,Non-Travel,691,Research & Development,1,218,4,57,3,1,Research Scientist,2,2024,Upto 5k,5970,6,No,18,3,4,80,1,1,1
+RM165,No,Non-Travel,1450,Research & Development,1,224,3,79,2,1,Research Scientist,3,2566,Upto 5k,25326,1,Yes,15,3,4,80,1,2,2
+RM171,No,Travel_Rarely,1157,Research & Development,1,233,3,51,3,1,Research Scientist,2,3058,Upto 5k,13364,0,Yes,16,3,4,80,1,3,2
+RM192,No,Travel_Rarely,894,Research & Development,1,260,4,99,3,1,Research Scientist,2,2279,Upto 5k,11781,1,No,16,3,4,80,0,2,2
+RM201,No,Travel_Frequently,472,Research & Development,1,274,3,60,2,2,Manufacturing Director,1,4298,Upto 5k,9679,5,No,19,3,3,80,1,1,3
+RM213,No,Travel_Frequently,1242,Sales,1,293,4,90,3,2,Sales Executive,3,9981,5k-10k,12916,1,No,14,3,4,80,0,2,3
+RM319,No,Travel_Rarely,1220,Research & Development,1,434,3,85,3,1,Research Scientist,2,2478,Upto 5k,20938,1,Yes,12,3,2,80,0,2,2
+RM321,No,Travel_Rarely,1377,Sales,1,437,4,74,3,2,Sales Executive,3,4478,Upto 5k,5242,1,Yes,11,3,1,80,0,3,3
+RM332,No,Non-Travel,210,Sales,1,449,3,73,3,2,Sales Executive,2,6349,5k-10k,22107,0,Yes,13,3,4,80,1,0,3
+RM340,No,Travel_Rarely,1130,Sales,1,458,2,56,3,2,Sales Executive,2,6214,5k-10k,3415,1,No,18,3,1,80,1,3,3
+RM374,No,Travel_Rarely,1469,Research & Development,1,497,4,82,3,1,Laboratory Technician,2,3816,Upto 5k,17881,1,No,11,3,2,80,1,2,3
+RM486,No,Travel_Rarely,798,Research & Development,1,655,1,66,2,1,Research Scientist,3,2187,Upto 5k,5013,0,No,12,3,3,80,2,5,2
+RM496,Yes,Travel_Rarely,1420,Sales,1,667,3,85,3,1,Sales Representative,1,3041,Upto 5k,16346,0,No,11,3,2,80,1,3,3
+RM513,No,Travel_Rarely,1115,Research & Development,1,700,1,54,2,1,Research Scientist,4,2045,Upto 5k,15174,0,No,13,3,4,80,0,0,3
+RM522,No,Travel_Frequently,1410,Sales,1,714,4,71,4,2,Sales Executive,4,4647,Upto 5k,16673,1,Yes,20,4,2,80,2,3,3
+RM531,No,Travel_Rarely,608,Research & Development,1,725,3,68,3,3,Manufacturing Director,1,7412,5k-10k,6009,1,No,11,3,4,80,0,3,3
+RM538,No,Travel_Frequently,294,Research & Development,1,733,4,32,3,3,Manufacturing Director,1,8793,5k-10k,4809,1,No,21,4,3,80,2,4,2
+RM555,No,Travel_Rarely,975,Research & Development,1,764,4,55,2,2,Healthcare Representative,1,6811,5k-10k,23398,8,No,19,3,1,80,0,2,1
+RM577,No,Travel_Frequently,829,Sales,1,800,3,84,3,2,Sales Executive,4,4342,Upto 5k,24008,0,No,19,3,2,80,1,3,3
+RM611,No,Travel_Rarely,269,Research & Development,1,844,3,42,2,3,Research Director,4,12808,10k-15k,8842,1,Yes,16,3,2,80,1,3,3
+RM616,No,Non-Travel,443,Research & Development,1,850,4,50,3,1,Research Scientist,4,1706,Upto 5k,16571,1,No,11,3,3,80,3,6,2
+RM671,No,Travel_Rarely,618,Research & Development,1,933,2,76,3,1,Research Scientist,3,2318,Upto 5k,17808,1,No,19,3,3,80,0,2,3
+RM718,No,Travel_Rarely,1134,Research & Development,1,1001,3,37,3,1,Laboratory Technician,2,2811,Upto 5k,12086,9,No,14,3,2,80,1,2,3
+RM740,No,Travel_Rarely,1055,Research & Development,1,1027,1,47,3,2,Manufacturing Director,4,4227,Upto 5k,4658,0,No,18,3,2,80,1,2,3
+RM787,No,Non-Travel,1277,Research & Development,1,1094,1,87,1,1,Laboratory Technician,3,4621,Upto 5k,5869,1,No,19,3,4,80,3,4,3
+RM834,No,Travel_Rarely,199,Research & Development,1,1162,4,55,2,1,Research Scientist,3,2539,Upto 5k,7950,1,No,13,3,3,80,1,0,3
+RM890,No,Travel_Rarely,1103,Research & Development,1,1244,1,42,3,1,Research Scientist,1,2235,Upto 5k,14377,1,Yes,14,3,4,80,2,3,2
+RM903,No,Travel_Rarely,1167,Research & Development,1,1259,1,76,3,1,Research Scientist,3,2517,Upto 5k,3208,1,No,11,3,2,80,3,2,3
+RM971,No,Travel_Rarely,1291,Sales,1,1364,3,98,4,1,Sales Representative,4,2534,Upto 5k,6527,8,No,14,3,2,80,1,4,3
+RM975,No,Travel_Frequently,793,Sales,1,1371,4,43,1,2,Sales Executive,4,5071,5k-10k,20392,3,No,20,4,2,80,0,3,3
+RM997,No,Travel_Rarely,205,Sales,1,1403,4,98,2,2,Sales Executive,4,5769,5k-10k,7100,1,Yes,11,3,4,80,0,3,3
+RM998,Yes,Travel_Rarely,135,Research & Development,1,1405,4,51,3,1,Research Scientist,3,2394,Upto 5k,25681,1,Yes,13,3,4,80,0,2,3
+RM1018,No,Travel_Rarely,1377,Research & Development,1,1434,2,91,3,1,Laboratory Technician,1,2099,Upto 5k,7679,0,No,14,3,2,80,0,3,4
+RM1150,No,Travel_Rarely,1302,Research & Development,1,1619,4,67,2,1,Laboratory Technician,1,4066,Upto 5k,16290,1,No,11,3,1,80,2,3,3
+RM1170,No,Travel_Rarely,486,Research & Development,1,1647,2,86,4,1,Research Scientist,3,3517,Upto 5k,22490,7,No,17,3,1,80,0,0,3
+RM1171,No,Travel_Frequently,591,Research & Development,1,1648,4,87,3,1,Research Scientist,4,2580,Upto 5k,6297,2,No,13,3,3,80,0,0,2
+RM1249,No,Travel_Rarely,1054,Research & Development,1,1751,3,67,3,1,Research Scientist,4,3445,Upto 5k,6152,1,No,11,3,3,80,0,5,2
+RM1318,No,Travel_Frequently,1297,Research & Development,1,1850,4,53,3,1,Laboratory Technician,4,2379,Upto 5k,19826,0,Yes,14,3,3,80,0,3,2
+RM1329,No,Travel_Rarely,728,Sales,1,1864,2,36,2,2,Sales Representative,3,3540,Upto 5k,7018,1,No,21,4,4,80,1,5,3
+RM1335,No,Travel_Frequently,1131,Research & Development,1,1870,4,77,2,1,Research Scientist,1,4774,Upto 5k,23844,0,No,19,3,4,80,1,2,2
+RM1351,No,Travel_Rarely,511,Sales,1,1898,1,89,4,2,Sales Executive,3,6500,5k-10k,26997,0,No,14,3,2,80,0,5,2
+RM1368,No,TravelRarely,1354,Research & Development,1,1931,2,41,3,1,Research Scientist,2,2226,Upto 5k,6073,1,No,11,3,3,80,1,3,2
+RM1380,Yes,Travel_Frequently,1337,Human Resources,1,1944,1,58,2,1,Human Resources,2,2863,Upto 5k,19555,1,No,12,3,1,80,0,2,3
+RM1394,No,Travel_Rarely,954,Sales,1,1965,4,44,3,2,Sales Executive,4,4105,Upto 5k,5099,1,No,14,3,1,80,0,5,3
+RM1468,No,Travel_Rarely,155,Research & Development,1,2064,2,87,4,2,Manufacturing Director,2,6142,5k-10k,5174,1,Yes,20,4,2,80,1,0,3
+RM1468,No,Travel_Rarely,155,Research & Development,1,2064,2,87,4,2,Manufacturing Director,2,6142,5k-10k,5174,1,Yes,20,4,2,80,1,0,3
+RM015,Yes,Travel_Rarely,103,Research & Development,1,19,3,50,2,1,Laboratory Technician,3,2028,Upto 5k,12947,5,Yes,14,3,2,80,0,4,3
+RM052,Yes,Travel_Rarely,1434,Research & Development,1,65,3,50,3,1,Laboratory Technician,3,3441,Upto 5k,11179,1,Yes,13,3,3,80,0,3,2
+RM098,No,Non-Travel,120,Sales,1,129,2,43,3,2,Sales Executive,3,4221,Upto 5k,8863,1,No,15,3,2,80,0,3,4
+RM163,No,Travel_Rarely,440,Research & Development,1,221,3,42,3,1,Research Scientist,4,2713,Upto 5k,6672,1,No,11,3,3,80,1,2,1
+RM265,Yes,Travel_Rarely,529,Research & Development,1,364,1,79,3,1,Laboratory Technician,3,3485,Upto 5k,14935,2,No,11,3,3,80,0,5,1
+RM273,No,Travel_Rarely,1158,Research & Development,1,377,4,94,3,1,Research Scientist,4,2070,Upto 5k,2613,1,No,23,4,4,80,1,3,2
+RM290,No,Travel_Rarely,1117,Research & Development,1,395,4,66,3,1,Research Scientist,4,3310,Upto 5k,4488,1,No,21,4,4,80,0,3,3
+RM303,No,Travel_Rarely,1476,Research & Development,1,412,2,68,4,2,Healthcare Representative,1,5661,5k-10k,4824,0,No,19,3,3,80,0,2,3
+RM324,Yes,Travel_Rarely,1157,Research & Development,1,440,1,84,1,1,Research Scientist,4,3464,Upto 5k,24737,5,Yes,13,3,4,80,0,4,2
+RM375,No,Travel_Rarely,304,Sales,1,498,2,92,3,2,Sales Executive,4,5253,5k-10k,20750,1,No,16,3,4,80,0,1,3
+RM405,No,Travel_Rarely,1300,Research & Development,1,536,3,79,3,2,Laboratory Technician,1,4558,Upto 5k,13535,1,No,12,3,4,80,1,2,3
+RM541,Yes,Travel_Rarely,654,Research & Development,1,741,1,67,1,1,Research Scientist,2,2216,Upto 5k,3872,7,Yes,13,3,4,80,0,4,3
+RM599,Yes,Travel_Rarely,890,Research & Development,1,828,3,46,3,1,Research Scientist,3,4382,Upto 5k,16374,6,No,17,3,4,80,0,3,2
+RM613,No,Travel_Rarely,760,Sales,1,846,2,81,3,2,Sales Executive,2,4779,Upto 5k,3698,1,Yes,20,4,1,80,0,2,3
+RM630,No,Travel_Rarely,1169,Human Resources,1,869,2,63,2,1,Human Resources,4,4936,Upto 5k,23965,1,No,13,3,4,80,1,6,3
+RM660,No,Travel_Rarely,821,Sales,1,916,1,98,3,2,Sales Executive,4,4908,Upto 5k,24252,1,No,14,3,2,80,0,3,3
+RM669,No,Travel_Rarely,995,Research & Development,1,930,3,77,3,1,Research Scientist,3,2377,Upto 5k,9834,5,No,18,3,2,80,1,2,3
+RM765,No,Travel_Rarely,1144,Sales,1,1056,4,74,3,1,Sales Representative,2,1052,Upto 5k,23384,1,No,22,4,2,80,0,5,3
+RM781,Yes,Non-Travel,1366,Research & Development,1,1082,2,72,2,3,Healthcare Representative,1,8722,5k-10k,12355,1,No,12,3,1,80,0,2,2
+RM789,No,Travel_Rarely,857,Research & Development,1,1097,3,59,3,2,Research Scientist,3,3660,Upto 5k,7909,3,No,13,3,4,80,0,4,4
+RM794,No,Travel_Rarely,895,Research & Development,1,1102,1,50,3,1,Laboratory Technician,3,2207,Upto 5k,22482,1,No,16,3,4,80,1,5,2
+RM801,Yes,Travel_Frequently,1009,Research & Development,1,1111,1,45,2,1,Laboratory Technician,2,2596,Upto 5k,7160,1,No,15,3,1,80,2,2,3
+RM810,No,Travel_Rarely,950,Research & Development,1,1121,4,93,3,3,Manufacturing Director,2,7655,5k-10k,8039,0,No,17,3,2,80,3,3,2
+RM820,No,Travel_Rarely,1451,Research & Development,1,1136,1,67,2,1,Research Scientist,2,3201,Upto 5k,19911,0,No,17,3,1,80,0,2,1
+RM828,No,Travel_Frequently,773,Research & Development,1,1154,3,39,2,1,Research Scientist,3,2703,Upto 5k,22088,1,Yes,14,3,4,80,1,2,3
+RM843,Yes,Travel_Rarely,1485,Research & Development,1,1175,3,79,3,1,Laboratory Technician,4,2515,Upto 5k,22955,1,Yes,11,3,4,80,0,4,2
+RM869,No,Travel_Rarely,1179,Research & Development,1,1216,4,78,2,1,Laboratory Technician,1,3196,Upto 5k,12449,1,No,12,3,3,80,3,2,3
+RM922,No,Travel_Frequently,791,Research & Development,1,1286,4,44,3,1,Laboratory Technician,3,2154,Upto 5k,6842,0,Yes,11,3,3,80,0,2,2
+RM930,No,Travel_Frequently,193,Research & Development,1,1296,4,52,2,1,Laboratory Technician,4,3867,Upto 5k,14222,1,Yes,12,3,2,80,1,2,3
+RM934,No,Travel_Rarely,640,Research & Development,1,1301,4,84,3,1,Research Scientist,1,2080,Upto 5k,4732,2,No,11,3,2,80,0,2,2
+RM945,No,Non-Travel,1476,Research & Development,1,1315,3,55,1,2,Laboratory Technician,4,6674,5k-10k,16392,0,No,11,3,1,80,3,6,3
+RM985,No,Travel_Rarely,736,Sales,1,1387,3,48,2,2,Sales Executive,1,4724,Upto 5k,24232,1,No,11,3,3,80,1,0,3
+RM1042,No,Travel_Rarely,866,Sales,1,1469,4,84,3,2,Sales Executive,1,8463,5k-10k,23490,0,No,18,3,4,80,0,4,3
+RM1057,Yes,Travel_Frequently,1496,Sales,1,1486,1,92,3,1,Sales Representative,3,2909,Upto 5k,15747,3,No,15,3,4,80,1,3,4
+RM1069,Yes,Travel_Frequently,289,Research & Development,1,1504,3,38,2,1,Laboratory Technician,1,2561,Upto 5k,5355,7,No,11,3,3,80,0,2,2
+RM1070,No,Travel_Rarely,1423,Research & Development,1,1506,1,72,2,1,Research Scientist,3,1563,Upto 5k,12530,1,No,14,3,4,80,1,2,1
+RM1071,No,Travel_Frequently,467,Sales,1,1507,3,55,3,2,Sales Executive,1,4898,Upto 5k,11827,0,No,14,3,4,80,0,5,3
+RM1074,No,Travel_Rarely,1083,Research & Development,1,1514,3,96,1,2,Manufacturing Director,2,6549,5k-10k,3173,1,No,14,3,2,80,2,2,2
+RM1137,Yes,Travel_Rarely,329,Research & Development,1,1604,3,51,3,1,Laboratory Technician,2,2408,Upto 5k,7324,1,Yes,17,3,3,80,3,3,3
+RM1152,No,Travel_Rarely,580,Research & Development,1,1622,2,39,1,2,Manufacturing Director,1,4877,Upto 5k,20460,0,No,21,4,2,80,1,5,2
+RM1284,No,Travel_Rarely,1181,Research & Development,1,1799,3,82,3,1,Research Scientist,4,2044,Upto 5k,5531,1,No,11,3,3,80,1,6,4
+RM1308,No,Travel_Rarely,1217,Research & Development,1,1834,3,67,3,1,Research Scientist,1,3591,Upto 5k,12719,1,No,25,4,3,80,1,3,3
+RM1324,No,Non-Travel,280,Human Resources,1,1858,3,43,3,1,Human Resources,4,2706,Upto 5k,10494,1,No,15,3,2,80,1,2,3
+RM1338,No,Travel_Rarely,1172,Sales,1,1875,2,78,3,1,Sales Representative,2,2856,Upto 5k,3692,1,No,19,3,4,80,1,3,3
+RM1365,No,Travel_Frequently,783,Sales,1,1927,3,42,2,2,Sales Executive,4,6834,5k-10k,19255,1,Yes,12,3,3,80,1,2,3
+RM1370,Yes,Travel_Rarely,1475,Sales,1,1933,4,84,3,2,Sales Executive,3,9854,5k-10k,23352,3,Yes,11,3,4,80,0,0,3
+RM1382,No,Non-Travel,1103,Research & Development,1,1947,3,49,3,1,Research Scientist,3,2144,Upto 5k,2122,1,No,14,3,3,80,0,3,2
+RM1391,Yes,Travel_Rarely,1404,Research & Development,1,1960,3,32,2,1,Laboratory Technician,4,2367,Upto 5k,18779,5,No,12,3,1,80,1,2,2
+RM012,No,Travel_Rarely,153,Research & Development,1,15,4,49,2,2,Laboratory Technician,3,4193,Upto 5k,12682,0,Yes,12,3,4,80,0,3,3
+RM016,No,Travel_Rarely,1389,Research & Development,1,20,2,51,4,3,Manufacturing Director,1,9980,5k-10k,10195,1,No,11,3,3,80,1,1,3
+RM072,No,Travel_Rarely,1328,Research & Development,1,94,3,76,3,1,Research Scientist,2,2703,Upto 5k,4956,0,No,23,4,4,80,1,3,3
+RM156,No,Non-Travel,1496,Research & Development,1,208,4,41,3,2,Manufacturing Director,3,4319,Upto 5k,26283,1,No,13,3,1,80,1,1,3
+RM206,Yes,Travel_Rarely,121,Sales,1,283,2,35,3,3,Sales Executive,4,7639,5k-10k,24525,1,No,22,4,4,80,3,3,2
+RM218,Yes,Travel_Rarely,992,Research & Development,1,300,3,85,3,1,Research Scientist,3,2058,Upto 5k,19757,0,No,14,3,4,80,0,1,2
+RM228,No,Travel_Frequently,1413,Sales,1,312,2,42,3,3,Sales Executive,4,7918,5k-10k,6599,1,No,14,3,4,80,1,5,3
+RM230,Yes,Travel_Rarely,896,Research & Development,1,315,3,86,2,1,Research Scientist,4,2389,Upto 5k,14961,1,Yes,13,3,3,80,0,3,2
+RM253,No,Travel_Rarely,665,Research & Development,1,346,3,60,3,1,Research Scientist,4,2340,Upto 5k,22673,1,No,19,3,1,80,0,1,3
+RM255,No,Travel_Rarely,1247,Sales,1,349,4,45,3,2,Sales Executive,4,6931,5k-10k,10732,2,No,14,3,4,80,1,2,3
+RM266,No,Travel_Rarely,1210,Sales,1,366,1,78,2,2,Sales Executive,2,6644,5k-10k,3687,2,No,19,3,2,80,2,2,3
+RM283,No,Travel_Frequently,442,Sales,1,388,2,44,3,2,Sales Executive,4,4554,Upto 5k,20260,1,No,18,3,1,80,0,3,2
+RM337,Yes,Travel_Rarely,318,Research & Development,1,454,2,77,1,1,Laboratory Technician,1,2119,Upto 5k,4759,1,Yes,11,3,4,80,0,4,2
+RM338,No,Travel_Rarely,738,Research & Development,1,455,2,30,2,1,Laboratory Technician,4,3983,Upto 5k,7621,0,No,17,3,3,80,0,2,3
+RM344,No,Travel_Rarely,144,Sales,1,463,4,39,2,2,Sales Executive,2,8268,5k-10k,11866,1,Yes,14,3,1,80,2,2,3
+RM350,No,Non-Travel,746,Sales,1,469,4,61,3,2,Sales Executive,3,4649,Upto 5k,16928,1,No,14,3,1,80,1,3,2
+RM372,No,Travel_Rarely,1283,Research & Development,1,495,4,54,3,1,Research Scientist,4,2201,Upto 5k,18168,9,No,16,3,4,80,0,4,3
+RM421,No,Travel_Rarely,986,Research & Development,1,564,2,93,2,3,Research Director,3,11935,10k-15k,21526,1,No,18,3,3,80,0,2,3
+RM422,Yes,Travel_Rarely,408,Research & Development,1,565,3,71,2,1,Research Scientist,2,2546,Upto 5k,18300,5,No,16,3,2,80,0,2,4
+RM455,No,Travel_Rarely,232,Research & Development,1,611,4,34,3,2,Manufacturing Director,4,4262,Upto 5k,22645,4,No,12,3,2,80,2,2,4
+RM508,No,Travel_Rarely,1176,Sales,1,690,2,62,3,2,Sales Executive,3,5561,5k-10k,3487,1,No,14,3,1,80,1,5,2
+RM520,No,Travel_Frequently,806,Research & Development,1,710,2,76,1,1,Research Scientist,4,2720,Upto 5k,18959,1,No,18,3,4,80,1,5,3
+RM547,No,Travel_Rarely,1396,Sales,1,749,3,99,3,1,Sales Representative,3,2642,Upto 5k,2755,1,No,11,3,3,80,0,6,3
+RM556,No,Travel_Rarely,1090,Sales,1,766,4,83,3,1,Sales Representative,2,2297,Upto 5k,17967,1,No,14,3,4,80,2,2,3
+RM573,No,Travel_Rarely,657,Research & Development,1,793,2,66,3,2,Healthcare Representative,3,4335,Upto 5k,25549,4,No,12,3,1,80,1,3,2
+RM590,Yes,Travel_Rarely,805,Research & Development,1,816,2,36,2,1,Laboratory Technician,1,2319,Upto 5k,6689,1,Yes,11,3,4,80,1,1,3
+RM595,No,Travel_Rarely,1252,Research & Development,1,824,3,81,4,1,Research Scientist,3,2700,Upto 5k,23779,1,No,24,4,3,80,1,3,3
+RM646,Yes,Travel_Rarely,341,Sales,1,896,2,48,2,1,Sales Representative,3,2800,Upto 5k,23522,6,Yes,19,3,3,80,3,3,3
+RM658,No,Travel_Rarely,1086,Research & Development,1,912,1,62,2,1,Laboratory Technician,4,2532,Upto 5k,6054,6,No,14,3,3,80,3,5,3
+RM698,No,Travel_Frequently,1404,Sales,1,974,3,84,3,1,Sales Representative,4,2157,Upto 5k,18203,1,No,15,3,2,80,1,5,3
+RM712,Yes,Travel_Rarely,906,Research & Development,1,994,4,92,2,1,Research Scientist,1,2404,Upto 5k,11479,6,Yes,20,4,3,80,0,5,3
+RM809,No,Travel_Rarely,1107,Research & Development,1,1120,3,93,3,1,Research Scientist,4,2514,Upto 5k,26968,4,No,22,4,1,80,1,1,3
+RM824,No,Travel_Frequently,490,Research & Development,1,1143,4,61,3,1,Research Scientist,2,3291,Upto 5k,17940,0,No,14,3,4,80,2,2,2
+RM826,No,Travel_Rarely,718,Research & Development,1,1150,2,79,2,2,Manufacturing Director,4,5056,5k-10k,17689,1,Yes,15,3,3,80,1,2,2
+RM837,Yes,Travel_Rarely,408,Sales,1,1165,4,45,2,3,Sales Executive,1,7336,5k-10k,11162,1,No,13,3,1,80,1,3,1
+RM853,No,Travel_Rarely,1401,Research & Development,1,1192,2,54,3,1,Laboratory Technician,4,3131,Upto 5k,26342,1,No,13,3,1,80,1,5,3
+RM860,No,Travel_Rarely,942,Research & Development,1,1202,2,69,1,1,Research Scientist,4,2168,Upto 5k,26933,0,Yes,18,3,1,80,1,2,2
+RM894,No,Travel_Rarely,1010,Research & Development,1,1249,1,97,3,1,Research Scientist,4,3760,Upto 5k,5598,1,No,15,3,1,80,3,5,3
+RM904,No,Travel_Rarely,1329,Research & Development,1,1260,3,82,3,2,Healthcare Representative,4,6623,5k-10k,4204,1,Yes,11,3,2,80,2,2,3
+RM906,No,Travel_Rarely,694,Research & Development,1,1264,4,87,2,4,Research Director,4,16124,15k+,3423,3,No,14,3,2,80,2,2,2
+RM933,Yes,Travel_Rarely,806,Research & Development,1,1299,2,39,3,1,Laboratory Technician,3,3339,Upto 5k,17285,3,Yes,13,3,1,80,2,2,3
+RM1006,No,Travel_Rarely,332,Human Resources,1,1419,2,51,2,3,Human Resources,1,7988,5k-10k,9769,1,No,13,3,1,80,0,3,2
+RM1008,Yes,Travel_Frequently,337,Research & Development,1,1421,3,84,3,3,Healthcare Representative,4,7553,5k-10k,22930,0,Yes,12,3,1,80,0,1,3
+RM1058,Yes,Travel_Frequently,115,Sales,1,1487,1,51,3,2,Sales Executive,2,5765,5k-10k,17485,5,No,11,3,1,80,0,4,1
+RM1064,No,Travel_Rarely,1246,Sales,1,1497,3,77,2,2,Sales Executive,3,8620,5k-10k,23757,1,No,14,3,3,80,2,3,3
+RM1073,No,Travel_Frequently,410,Research & Development,1,1513,4,97,3,1,Laboratory Technician,2,3180,Upto 5k,4668,0,No,13,3,3,80,3,3,3
+RM1078,Yes,Travel_Rarely,224,Research & Development,1,1522,1,100,2,1,Research Scientist,1,2362,Upto 5k,7568,6,No,13,3,3,80,0,2,1
+RM1091,No,Travel_Rarely,441,Research & Development,1,1544,3,39,1,2,Healthcare Representative,1,9715,5k-10k,7288,3,No,13,3,3,80,1,3,3
+RM1105,No,Travel_Rarely,598,Research & Development,1,1558,3,91,4,1,Research Scientist,3,2451,Upto 5k,22376,6,No,18,3,1,80,2,2,2
+RM1123,No,Travel_Rarely,1370,Research & Development,1,1586,2,87,3,1,Laboratory Technician,1,4723,Upto 5k,16213,1,Yes,18,3,4,80,0,3,3
+RM1126,No,Travel_Frequently,995,Research & Development,1,1590,1,87,3,2,Healthcare Representative,4,8853,5k-10k,24483,1,No,19,3,4,80,1,0,4
+RM1173,No,Travel_Rarely,469,Sales,1,1650,3,42,2,2,Sales Executive,3,5869,5k-10k,23413,9,No,11,3,3,80,0,2,3
+RM1189,No,Travel_Rarely,991,Sales,1,1669,1,43,2,2,Sales Executive,2,4187,Upto 5k,3356,1,Yes,13,3,2,80,1,3,2
+RM1220,No,Travel_Rarely,1082,Research & Development,1,1709,4,43,3,1,Laboratory Technician,3,2974,Upto 5k,25412,9,No,17,3,3,80,1,2,3
+RM1250,Yes,Travel_Rarely,428,Sales,1,1752,2,52,1,1,Sales Representative,2,2760,Upto 5k,14630,1,No,13,3,3,80,0,3,3
+RM1251,No,Travel_Frequently,461,Research & Development,1,1753,4,70,4,2,Healthcare Representative,3,6294,5k-10k,23060,8,Yes,12,3,4,80,0,5,4
+RM1259,No,Travel_Rarely,590,Research & Development,1,1762,4,91,2,1,Research Scientist,1,2109,Upto 5k,10007,1,No,13,3,3,80,1,2,3
+RM1314,Yes,Travel_Rarely,350,Human Resources,1,1844,1,56,2,1,Human Resources,1,2335,Upto 5k,3157,4,Yes,15,3,4,80,3,3,3
+RM1319,No,Travel_Frequently,574,Research & Development,1,1852,4,40,3,1,Laboratory Technician,4,3812,Upto 5k,7003,1,No,13,3,2,80,0,3,4
+RM1325,No,Travel_Rarely,726,Research & Development,1,1859,4,93,1,2,Healthcare Representative,3,6384,5k-10k,21143,8,No,17,3,4,80,2,3,3
+RM1330,No,TravelRarely,352,Human Resources,1,1865,4,87,2,1,Human Resources,2,2804,Upto 5k,15434,1,No,11,3,4,80,0,3,3
+RM1333,Yes,Travel_Frequently,459,Research & Development,1,1868,4,73,2,1,Research Scientist,4,2439,Upto 5k,14753,1,Yes,24,4,2,80,0,3,2
+RM1344,No,Travel_Rarely,592,Research & Development,1,1883,4,59,3,1,Laboratory Technician,1,2062,Upto 5k,19384,3,No,14,3,2,80,0,2,3
+RM1366,Yes,Travel_Frequently,746,Sales,1,1928,3,45,4,1,Sales Representative,1,1091,Upto 5k,10642,1,No,17,3,4,80,0,3,3
+RM1388,No,Travel_Rarely,136,Research & Development,1,1954,1,89,3,2,Healthcare Representative,1,5373,5k-10k,6225,0,No,12,3,1,80,1,5,2
+RM1443,Yes,Travel_Rarely,1092,Research & Development,1,2027,1,36,3,1,Research Scientist,4,4787,Upto 5k,26124,9,Yes,14,3,2,80,3,3,4
+RM1460,No,Travel_Rarely,1378,Research & Development,1,2053,4,46,2,2,Laboratory Technician,2,4025,Upto 5k,23679,4,Yes,13,3,1,80,1,2,3
+RM1461,No,Travel_Rarely,468,Research & Development,1,2054,4,73,2,1,Research Scientist,1,3785,Upto 5k,8489,1,No,14,3,2,80,0,3,1
+RM1461,No,Travel_Rarely,468,Research & Development,1,2054,4,73,2,1,Research Scientist,1,3785,Upto 5k,8489,1,No,14,3,2,80,0,3,1
+RM008,No,Travel_Rarely,1358,Research & Development,1,11,4,67,3,1,Laboratory Technician,3,2693,Upto 5k,13335,1,No,22,4,2,80,1,2,3
+RM033,No,Travel_Rarely,125,Research & Development,1,41,4,83,2,1,Laboratory Technician,3,2206,Upto 5k,16117,1,No,13,3,1,80,0,5,3
+RM045,No,Travel_Frequently,721,Research & Development,1,57,3,58,3,2,Laboratory Technician,4,4011,Upto 5k,10781,1,No,23,4,4,80,0,2,3
+RM081,No,Travel_Rarely,852,Research & Development,1,104,4,55,2,2,Laboratory Technician,4,5126,5k-10k,15998,1,Yes,12,3,3,80,2,1,2
+RM089,No,Travel_Rarely,288,Research & Development,1,117,3,99,2,2,Healthcare Representative,4,4152,Upto 5k,15830,1,No,19,3,1,80,3,3,3
+RM093,No,Travel_Rarely,1334,Sales,1,121,3,63,2,2,Sales Executive,2,5209,5k-10k,19760,1,Yes,12,3,2,80,3,4,2
+RM121,No,Travel_Frequently,1312,Research & Development,1,159,1,96,1,1,Research Scientist,3,2613,Upto 5k,22310,1,No,25,4,3,80,3,2,2
+RM140,No,Travel_Rarely,1240,Human Resources,1,184,3,48,3,2,Human Resources,4,6347,5k-10k,13982,0,Yes,19,3,4,80,0,2,1
+RM144,No,Travel_Rarely,438,Research & Development,1,194,1,75,3,1,Research Scientist,3,2632,Upto 5k,23910,1,No,14,3,3,80,0,4,2
+RM146,No,Travel_Rarely,201,Research & Development,1,197,4,84,3,1,Research Scientist,1,3204,Upto 5k,10415,5,No,14,3,4,80,1,3,3
+RM147,No,Travel_Rarely,1427,Research & Development,1,198,2,35,2,1,Laboratory Technician,4,2720,Upto 5k,11162,0,No,13,3,4,80,0,3,3
+RM168,No,Travel_Rarely,1339,Sales,1,228,2,41,3,3,Sales Executive,4,9419,5k-10k,8053,2,No,12,3,3,80,1,2,3
+RM174,No,Non-Travel,111,Research & Development,1,239,3,66,3,2,Laboratory Technician,1,3072,Upto 5k,11012,1,No,11,3,3,80,2,4,3
+RM212,No,Non-Travel,829,Research & Development,1,292,3,88,2,3,Manufacturing Director,3,8474,5k-10k,20925,1,No,22,4,3,80,0,2,3
+RM215,Yes,Travel_Rarely,1005,Research & Development,1,297,4,88,3,1,Research Scientist,1,2657,Upto 5k,8556,5,Yes,11,3,3,80,0,5,3
+RM217,Yes,Travel_Frequently,334,Sales,1,299,3,52,2,2,Sales Executive,1,6696,5k-10k,22967,5,No,15,3,3,80,0,5,2
+RM325,No,Travel_Rarely,1275,Research & Development,1,441,4,64,3,2,Research Scientist,4,5775,5k-10k,11934,1,No,13,3,4,80,2,2,3
+RM339,No,Travel_Rarely,570,Sales,1,456,4,30,2,2,Sales Executive,3,6118,5k-10k,5431,1,No,13,3,3,80,3,2,3
+RM355,No,Non-Travel,641,Sales,1,475,4,85,3,2,Sales Executive,3,4736,Upto 5k,6069,7,Yes,12,3,2,80,1,2,4
+RM382,No,Travel_Rarely,202,Sales,1,508,3,72,3,1,Sales Representative,2,2476,Upto 5k,17434,1,No,18,3,1,80,1,3,3
+RM386,Yes,Travel_Frequently,464,Research & Development,1,514,3,40,3,1,Research Scientist,4,2285,Upto 5k,3427,9,Yes,23,4,3,80,0,4,3
+RM403,No,Travel_Rarely,1082,Sales,1,533,2,83,3,2,Sales Executive,3,6577,5k-10k,19558,0,No,11,3,2,80,0,6,3
+RM411,No,Travel_Rarely,317,Research & Development,1,548,3,43,1,2,Manufacturing Director,4,6091,5k-10k,24793,2,No,20,4,3,80,0,2,3
+RM420,No,Non-Travel,1400,Research & Development,1,562,3,53,3,1,Laboratory Technician,4,2097,Upto 5k,16734,4,No,15,3,3,80,1,3,1
+RM424,No,Non-Travel,1398,Sales,1,567,3,69,3,3,Sales Executive,1,8412,5k-10k,2890,0,No,11,3,3,80,0,3,3
+RM427,No,Non-Travel,1116,Research & Development,1,571,3,49,3,1,Laboratory Technician,4,2564,Upto 5k,7181,0,No,14,3,3,80,0,2,2
+RM438,No,Travel_Rarely,413,Sales,1,585,4,57,3,1,Sales Representative,2,2983,Upto 5k,18398,0,No,14,3,1,80,0,3,3
+RM481,Yes,Travel_Frequently,448,Sales,1,648,2,74,2,1,Sales Representative,1,2033,Upto 5k,14470,1,No,18,3,3,80,1,2,4
+RM502,No,Travel_Frequently,160,Research & Development,1,680,3,71,3,1,Research Scientist,3,2083,Upto 5k,22653,1,No,20,4,3,80,1,2,3
+RM546,No,Travel_Rarely,501,Sales,1,747,3,99,3,2,Sales Executive,4,5304,5k-10k,25275,7,No,23,4,4,80,1,2,2
+RM582,No,Travel_Rarely,921,Research & Development,1,806,4,38,1,1,Laboratory Technician,3,3833,Upto 5k,24375,3,No,21,4,3,80,2,2,3
+RM603,No,Travel_Rarely,946,Research & Development,1,833,3,52,2,2,Manufacturing Director,4,6877,5k-10k,20234,5,Yes,24,4,2,80,0,4,2
+RM624,No,Travel_Frequently,1012,Research & Development,1,861,2,75,2,1,Research Scientist,4,3761,Upto 5k,2373,9,No,12,3,2,80,1,3,2
+RM703,No,Travel_Rarely,231,Sales,1,982,3,62,3,3,Sales Executive,3,7264,5k-10k,9977,5,No,11,3,1,80,1,2,4
+RM721,Yes,Travel_Rarely,138,Research & Development,1,1004,1,48,3,1,Research Scientist,3,2132,Upto 5k,11539,4,Yes,11,3,2,80,0,2,3
+RM731,No,Travel_Rarely,153,Research & Development,1,1015,2,73,4,3,Research Director,1,11416,10k-15k,17802,0,Yes,12,3,3,80,3,4,2
+RM733,Yes,Travel_Frequently,109,Research & Development,1,1017,2,60,3,1,Laboratory Technician,2,2422,Upto 5k,25725,0,No,17,3,1,80,0,3,3
+RM783,No,Travel_Rarely,1176,Research & Development,1,1084,3,85,3,2,Manufacturing Director,1,9957,5k-10k,9096,0,No,15,3,3,80,1,1,2
+RM845,No,Travel_Rarely,852,Sales,1,1179,3,72,2,2,Sales Executive,3,6578,5k-10k,2706,1,No,18,3,1,80,1,3,3
+RM866,No,Travel_Rarely,1329,Sales,1,1211,3,61,3,2,Sales Executive,1,4115,Upto 5k,13192,8,No,19,3,3,80,3,3,3
+RM875,No,Travel_Rarely,853,Research & Development,1,1224,3,49,3,2,Laboratory Technician,3,3491,Upto 5k,11309,1,No,13,3,1,80,3,4,2
+RM887,No,Travel_Rarely,1465,Research & Development,1,1241,4,63,3,1,Research Scientist,2,3579,Upto 5k,9369,0,Yes,21,4,1,80,1,2,3
+RM932,No,Non-Travel,879,Research & Development,1,1298,3,72,3,2,Manufacturing Director,3,4695,Upto 5k,12858,7,Yes,18,3,3,80,0,3,3
+RM942,No,Travel_Rarely,1138,Research & Development,1,1311,1,48,2,2,Laboratory Technician,4,4627,Upto 5k,23631,0,No,12,3,1,80,1,6,3
+RM949,No,Travel_Rarely,634,Research & Development,1,1321,2,95,3,3,Manager,1,11916,10k-15k,25927,1,Yes,23,4,4,80,2,2,3
+RM1014,No,Travel_Rarely,855,Sales,1,1428,4,73,3,2,Sales Executive,1,4779,Upto 5k,12761,7,No,14,3,2,80,2,3,3
+RM1050,No,Travel_Rarely,1358,Sales,1,1479,4,96,3,2,Sales Executive,3,5301,5k-10k,2939,8,No,15,3,3,80,2,2,2
+RM1053,No,Non-Travel,990,Research & Development,1,1482,3,64,3,1,Research Scientist,3,1274,Upto 5k,7152,1,No,13,3,2,80,2,2,2
+RM1065,No,Travel_Rarely,330,Human Resources,1,1499,3,46,3,1,Human Resources,3,2064,Upto 5k,15428,0,No,21,4,1,80,1,3,4
+RM1107,Yes,Travel_Rarely,740,Sales,1,1562,2,64,2,2,Sales Executive,1,9714,5k-10k,5323,1,No,11,3,4,80,1,4,3
+RM1110,No,Travel_Rarely,1288,Sales,1,1568,3,33,3,3,Sales Executive,2,9250,5k-10k,17799,3,No,12,3,2,80,1,3,3
+RM1142,No,Travel_Rarely,241,Research & Development,1,1609,2,48,2,1,Research Scientist,2,2141,Upto 5k,5348,1,No,12,3,2,80,1,3,2
+RM1234,No,Travel_Rarely,793,Research & Development,1,1729,2,33,3,1,Research Scientist,4,2862,Upto 5k,3811,1,No,12,3,2,80,1,2,2
+RM1245,No,Travel_Frequently,1312,Research & Development,1,1745,4,78,2,1,Research Scientist,1,4968,Upto 5k,26427,0,No,16,3,4,80,0,2,3
+RM1247,Yes,Travel_Frequently,600,Human Resources,1,1747,3,66,2,1,Human Resources,4,2180,Upto 5k,9732,6,No,11,3,3,80,1,0,2
+RM1252,No,Travel_Rarely,979,Sales,1,1754,3,94,2,3,Sales Executive,1,7140,5k-10k,3088,2,No,11,3,1,80,1,2,3
+RM1260,No,Travel_Rarely,305,Research & Development,1,1763,3,58,4,2,Healthcare Representative,3,5294,5k-10k,9128,3,No,16,3,3,80,1,3,3
+RM1297,No,Travel_Rarely,1092,Research & Development,1,1816,1,64,3,3,Manufacturing Director,3,9667,5k-10k,2739,9,No,14,3,2,80,0,3,3
+RM1339,Yes,Travel_Rarely,945,Sales,1,1876,2,89,3,1,Sales Representative,4,1081,Upto 5k,16019,1,No,13,3,3,80,0,3,2
+RM1413,No,Travel_Rarely,911,Research & Development,1,1989,4,76,3,1,Laboratory Technician,2,3748,Upto 5k,4077,1,No,13,3,3,80,0,6,2
+RM013,No,Travel_Rarely,670,Research & Development,1,16,1,31,3,1,Research Scientist,3,2911,Upto 5k,15170,1,No,17,3,4,80,1,1,2
+RM059,No,Travel_Rarely,655,Research & Development,1,76,4,48,3,2,Laboratory Technician,4,5915,5k-10k,9528,3,No,22,4,4,80,1,3,2
+RM073,No,Travel_Rarely,1082,Research & Development,1,95,3,87,3,1,Research Scientist,2,2501,Upto 5k,18775,1,No,17,3,2,80,0,4,3
+RM076,No,Travel_Rarely,746,Research & Development,1,98,3,61,3,2,Manufacturing Director,4,4424,Upto 5k,20682,1,No,23,4,4,80,0,2,3
+RM125,Yes,Travel_Rarely,249,Sales,1,163,2,76,1,2,Sales Executive,3,6172,5k-10k,20739,4,Yes,18,3,2,80,0,3,2
+RM133,Yes,Travel_Rarely,542,Sales,1,175,2,71,1,2,Sales Executive,3,4559,Upto 5k,24788,3,Yes,11,3,3,80,1,2,3
+RM181,No,Travel_Rarely,140,Research & Development,1,246,3,95,3,1,Research Scientist,4,3929,Upto 5k,6984,8,Yes,23,4,3,80,1,0,3
+RM225,No,Non-Travel,979,Research & Development,1,308,3,90,1,2,Manufacturing Director,3,4345,Upto 5k,4381,0,No,12,3,4,80,1,2,3
+RM246,No,Travel_Frequently,1327,Research & Development,1,337,2,73,3,3,Research Director,3,13675,10k-15k,13523,9,No,12,3,1,80,1,3,3
+RM260,Yes,Travel_Frequently,307,Research & Development,1,355,3,71,2,1,Laboratory Technician,2,3479,Upto 5k,11652,0,No,11,3,2,80,0,2,4
+RM267,No,Travel_Rarely,1463,Research & Development,1,367,2,64,2,2,Healthcare Representative,4,5582,5k-10k,14408,0,No,21,4,2,80,1,2,3

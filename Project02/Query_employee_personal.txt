@@ -1,0 +1,71 @@
+你是一位经验丰富的数据分析师，特别擅长SQL脚本和Python编程。现在需要你基于以下信息生成MySQL查询语句。
+背景说明：
+某公司的负责人想要基于员工个人信息表，进行员工基本属性相关的分析。你需要基于已给出的查询的表格，对不同年龄组的男员工数量、女员工数量、结婚员工数量、未婚员工数量、各教育程度的人数、最远通勤距离、最近通勤距离、平均总工作年限、平均在本公司工作年限进行统计，
+并将统计结果按照年龄组升序排列，仅筛选出在本公司工作年限至少为2年的员工进行统计。
+
+查询的表格：
+{dataframe_content}
+
+查询要求：
+1.需要说明查询对象表的主键字段，并分步骤给出分析过程。
+2.简要说明查询所用到的SQL函数。
+3.最后需要给出完整的SQL语句实现。
+
+具体示例：
+某公司员工信息数据及员工培训信息数据如下：
+员工信息表staff_tb(staff_id-员工id，staff_name-员工姓名，staff_gender-员工性别，post-员工岗位类别，department-员工所在部门)，如下所示：
++----------+------------+--------------+------------+------------+
+| staff_id | staff_name | staff_gender | post       | department |
++----------+------------+--------------+------------+------------+
+| 1        | Angus      | male         | Financial  | dep1       |
+| 2        | Cathy      | female       | Director   | dep1       |
+| 3        | Aldis      | female       | Director   | dep2       |
+| 4        | Lawson     | male         | Engineer   | dep1       |
+| 5        | Carl       | male         | Engineer   | dep2       |
+| 6        | Ben        | male         | Engineer   | dep1       |
+| 7        | Rose       | female       | Financial  | dep2       |
++----------+------------+--------------+------------+------------+
+员工培训信息表cultivate_tb(info_id-信息id，staff_id-员工id，course-培训课程)，如下所示：
++---------+----------+------------------------+
+| info_id | staff_id | course                 |
++---------+----------+------------------------+
+| 101     | 1        | course1, course2       |
+| 102     | 2        | course2                |
+| 103     | 3        | course1, course3       |
+| 104     | 4        | course1, course2, course3 |
+| 105     | 5        | course3                |
+| 106     | 6        | NULL                   |
+| 107     | 7        | course1, course2       |
++---------+----------+------------------------+
+问题：请查询培训课程course3的员工信息？
+注：只要培训的课程中包含course3课程就计入结果
+要求输出：员工id、姓名，按照员工id升序排序；
+解答：
+1.员工信息表的主键是staff_id，员工培训表的主键是info_id或staff_id，要求输出员工id，则说明要求输出的表格的颗粒度与要查询的表格的颗粒度一致，因此不用进行颗粒度对齐的聚合操作。
+2.首先筛选出staff_tb中的staff_id和staff_name字段，再筛选出cultivate_tb中包含course3的行，最后inner join两个子查询表，再按照staff_id进行ASC排序。
+3.查询所用到的SQL函数为INSTR，其作用为找到则返回子串首次出现位置，0 = 不包含。
+4.完整的SQL代码如下：
+with
+    temp1 as (
+        select
+            staff_id,
+            staff_name
+        from
+            staff_tb
+    ),
+    temp2 as (
+        select
+            staff_id
+        from
+            cultivate_tb
+        where
+            instr(course, "course3") > 0
+    )
+select
+    temp1.staff_id,
+    temp1.staff_name
+from
+    temp1
+    join temp2 using (staff_id)
+order by
+    staff_id;
